@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				eco: {
+					green: 'hsl(var(--eco-green))',
+					'green-light': 'hsl(var(--eco-green-light))',
+					blue: 'hsl(var(--eco-blue))',
+					'blue-light': 'hsl(var(--eco-blue-light))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -84,11 +90,29 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				'spin-slow': {
+					from: {
+						transform: 'rotate(0deg)'
+					},
+					to: {
+						transform: 'rotate(360deg)'
+					}
+				},
+				'pulse-eco': {
+					'0%, 100%': {
+						boxShadow: '0 0 20px hsl(var(--eco-green) / 0.3)'
+					},
+					'50%': {
+						boxShadow: '0 0 40px hsl(var(--eco-green) / 0.6)'
+					}
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'spin-slow': 'spin-slow 8s linear infinite',
+				'pulse-eco': 'pulse-eco 2s ease-in-out infinite'
 			}
 		}
 	},
