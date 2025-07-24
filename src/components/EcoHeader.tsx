@@ -32,13 +32,13 @@ const EcoHeader = () => {
             <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Dashboard
             </a>
-            <a href="#companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
+            <a href="/companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Empresas
             </a>
-            <a href="#connections" className="text-foreground hover:text-eco-green transition-colors font-medium">
+            <a href="/conexoes" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Conexões
             </a>
-            <a href="#residues" className="text-foreground hover:text-eco-green transition-colors font-medium">
+            <a href="/residuos" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Resíduos
             </a>
             <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
@@ -73,13 +73,13 @@ const EcoHeader = () => {
               <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Dashboard
               </a>
-              <a href="#companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              <a href="/companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Empresas
               </a>
-              <a href="#connections" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              <a href="/conexoes" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Conexões
               </a>
-              <a href="#residues" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              <a href="/residuos" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Resíduos
               </a>
               <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
