@@ -218,7 +218,7 @@ const Companies = () => {
 
         {/* Tabs */}
         <Tabs defaultValue="list" className="w-full">
-          <div className="mb-6">
+          <div className="mb-6 flex items-center">
             <TabsList className="grid grid-cols-2 w-48">
               <TabsTrigger value="list" className="flex items-center gap-2">
                 <List className="w-4 h-4" />
