@@ -61,14 +61,6 @@ const Companies = () => {
   };
 
   const MapComponent = () => {
-    // Create markers for each company
-    const markers = filteredCompanies.map((company, index) => {
-      const { icon, color } = getPoloIcon(company.type);
-      return `&markers=color:${color.replace('#', '0x')}%7Clabel:${encodeURIComponent(icon)}%7C${company.location.lat},${company.location.lng}`;
-    }).join('');
-
-    const mapUrl = `https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite${markers}`;
-
     return (
       <div className="h-[600px] bg-muted/30 rounded-lg relative">
         <iframe
@@ -78,8 +70,40 @@ const Companies = () => {
           loading="lazy"
           allowFullScreen
           referrerPolicy="no-referrer-when-downgrade"
-          src={mapUrl}
+          src={`https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite`}
         />
+        
+        {/* Company markers overlay */}
+        <div className="absolute inset-0 pointer-events-none">
+          {filteredCompanies.map((company, index) => {
+            const { icon, color } = getPoloIcon(company.type);
+            // Simple positioning based on lat/lng relative to center
+            const centerLat = -8.3564;
+            const centerLng = -34.9392;
+            const offsetLat = (company.location.lat - centerLat) * 8000; // Scale factor for positioning
+            const offsetLng = (company.location.lng - centerLng) * 8000;
+            
+            return (
+              <div
+                key={company.id}
+                className="absolute transform -translate-x-1/2 -translate-y-1/2 pointer-events-auto"
+                style={{
+                  left: `calc(50% + ${offsetLng}px)`,
+                  top: `calc(50% + ${offsetLat}px)`,
+                }}
+                title={`${company.name} - ${company.type}`}
+              >
+                <div 
+                  className="w-8 h-8 rounded-full flex items-center justify-center text-white text-sm font-bold shadow-lg cursor-pointer hover:scale-110 transition-transform"
+                  style={{ backgroundColor: color }}
+                >
+                  {icon}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
         <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
           <div className="flex items-center gap-2 mb-2">
             <Map className="w-4 h-4 text-primary" />
