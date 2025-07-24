@@ -32,11 +32,14 @@ const EcoHeader = () => {
             <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Dashboard
             </a>
-            <a href="#network" className="text-foreground hover:text-eco-green transition-colors font-medium">
-              Rede
+            <a href="#companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              Empresas
             </a>
-            <a href="#processes" className="text-foreground hover:text-eco-green transition-colors font-medium">
-              Processos
+            <a href="#connections" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              Conexões
+            </a>
+            <a href="#residues" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              Resíduos
             </a>
             <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Relatórios
@@ -70,11 +73,14 @@ const EcoHeader = () => {
               <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Dashboard
               </a>
-              <a href="#network" className="text-foreground hover:text-eco-green transition-colors font-medium">
-                Rede
+              <a href="#companies" className="text-foreground hover:text-eco-green transition-colors font-medium">
+                Empresas
               </a>
-              <a href="#processes" className="text-foreground hover:text-eco-green transition-colors font-medium">
-                Processos
+              <a href="#connections" className="text-foreground hover:text-eco-green transition-colors font-medium">
+                Conexões
+              </a>
+              <a href="#residues" className="text-foreground hover:text-eco-green transition-colors font-medium">
+                Resíduos
               </a>
               <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Relatórios
