@@ -1,0 +1,122 @@
+[
+  {
+    "empresa":"UNILEVER CD",
+    "tipo_residuo":"Lodo Org\u00e2nico",
+    "toneladas_mensal":15.0,
+    "empresa_receptora":"Empresa de Compostagem local ou Agricultores da regi\u00e3o",
+    "uso_do_residuo":"Compostagem para fertilizante",
+    "custo_materia_virgem":500,
+    "custo_materia_circular":50,
+    "custo_fornecedor_comum":7500.0,
+    "custo_fornecedor_circular":750.0,
+    "economia_total":6750.0
+  },
+  {
+    "empresa":"BUNGE ALIMENTOS S\/A",
+    "tipo_residuo":"Lodo Org\u00e2nico",
+    "toneladas_mensal":10.0,
+    "empresa_receptora":"Empresa de Biodigest\u00e3o",
+    "uso_do_residuo":"Produ\u00e7\u00e3o de Biog\u00e1s e Biofertilizante",
+    "custo_materia_virgem":500,
+    "custo_materia_circular":50,
+    "custo_fornecedor_comum":5000.0,
+    "custo_fornecedor_circular":500.0,
+    "economia_total":4500.0
+  },
+  {
+    "empresa":"REFINARIA ABREU E LIMA",
+    "tipo_residuo":"Borra Oleosa",
+    "toneladas_mensal":70.0,
+    "empresa_receptora":"INTERCEMENT\/ CIMENTO BRASIL (CIMEC)",
+    "uso_do_residuo":"Coprocessamento em forno de cimento",
+    "custo_materia_virgem":1200,
+    "custo_materia_circular":150,
+    "custo_fornecedor_comum":84000.0,
+    "custo_fornecedor_circular":10500.0,
+    "economia_total":73500.0
+  },
+  {
+    "empresa":"AMCOR FLEXIBLES DO BRASIL",
+    "tipo_residuo":"Pl\u00e1sticos (filmes\/embalagens)",
+    "toneladas_mensal":7.0,
+    "empresa_receptora":"Nova Recicladora de Pl\u00e1sticos",
+    "uso_do_residuo":"Reciclagem para novos produtos pl\u00e1sticos",
+    "custo_materia_virgem":3000,
+    "custo_materia_circular":500,
+    "custo_fornecedor_comum":21000.0,
+    "custo_fornecedor_circular":3500.0,
+    "economia_total":17500.0
+  },
+  {
+    "empresa":"SULOG - SUAPE LOG\u00cdSTICA S\/A",
+    "tipo_residuo":"Pneus Inserv\u00edveis",
+    "toneladas_mensal":2.0,
+    "empresa_receptora":"INTERCEMENT\/ CIMENTO BRASIL (CIMEC)",
+    "uso_do_residuo":"Coprocessamento em forno de cimento",
+    "custo_materia_virgem":1000,
+    "custo_materia_circular":200,
+    "custo_fornecedor_comum":2000.0,
+    "custo_fornecedor_circular":400.0,
+    "economia_total":1600.0
+  },
+  {
+    "empresa":"SULOG - SUAPE LOG\u00cdSTICA S\/A",
+    "tipo_residuo":"\u00d3leo de Caminh\u00f5es (OLUC)",
+    "toneladas_mensal":0.8,
+    "empresa_receptora":"Empresa de Rerefino de \u00d3leo",
+    "uso_do_residuo":"Rerefino para \u00f3leo b\u00e1sico",
+    "custo_materia_virgem":5000,
+    "custo_materia_circular":500,
+    "custo_fornecedor_comum":4000.0,
+    "custo_fornecedor_circular":400.0,
+    "economia_total":3600.0
+  },
+  {
+    "empresa":"DECA CABO DE SANTO AGOSTINHO",
+    "tipo_residuo":"Res\u00edduos Lignocelul\u00f3sicos",
+    "toneladas_mensal":20.0,
+    "empresa_receptora":"Empresa de Gaseifica\u00e7\u00e3o\/Biomassa ou uso pr\u00f3prio",
+    "uso_do_residuo":"Gera\u00e7\u00e3o de energia t\u00e9rmica",
+    "custo_materia_virgem":400,
+    "custo_materia_circular":50,
+    "custo_fornecedor_comum":8000.0,
+    "custo_fornecedor_circular":1000.0,
+    "economia_total":7000.0
+  },
+  {
+    "empresa":"GRI TOWER BRASIL ESTRUTURAS MET\u00c1LICAS S\/A",
+    "tipo_residuo":"Sucata Ferrosa",
+    "toneladas_mensal":15.0,
+    "empresa_receptora":"SOLU\u00c7\u00d5ES EM A\u00c7O USIMINAS S\/A",
+    "uso_do_residuo":"Reciclagem para produ\u00e7\u00e3o de a\u00e7o",
+    "custo_materia_virgem":2500,
+    "custo_materia_circular":500,
+    "custo_fornecedor_comum":37500.0,
+    "custo_fornecedor_circular":7500.0,
+    "economia_total":30000.0
+  },
+  {
+    "empresa":"TRANSPETRO (PETROBRAS)",
+    "tipo_residuo":"Lodo Industrial (Diversos)",
+    "toneladas_mensal":30.0,
+    "empresa_receptora":"Empresa de Tratamento de Res\u00edduos Industriais",
+    "uso_do_residuo":"Tratamento e potencial coprocessamento",
+    "custo_materia_virgem":1500,
+    "custo_materia_circular":300,
+    "custo_fornecedor_comum":45000.0,
+    "custo_fornecedor_circular":9000.0,
+    "economia_total":36000.0
+  },
+  {
+    "empresa":"TEGMA GEST\u00c3O LOG\u00cdSTICA S\/A",
+    "tipo_residuo":"Embalagens de Carga (Madeira, Pl\u00e1stico)",
+    "toneladas_mensal":5.0,
+    "empresa_receptora":"Cooperativa de Reciclagem local ou Empresa de Produ\u00e7\u00e3o de Pallets",
+    "uso_do_residuo":"Reaproveitamento\/Reciclagem",
+    "custo_materia_virgem":800,
+    "custo_materia_circular":100,
+    "custo_fornecedor_comum":4000.0,
+    "custo_fornecedor_circular":500.0,
+    "economia_total":3500.0
+  }
+]
