@@ -9,6 +9,7 @@ import EcoHeader from "@/components/EcoHeader";
 import EcoFooter from "@/components/EcoFooter";
 import { ArrowLeft, Building2, Map, List, MapPin, Users, Mail, Phone, Search, Filter } from "lucide-react";
 import { Link } from "react-router-dom";
+import { GoogleMap, useJsApiLoader, MarkerF, InfoWindowF } from '@react-google-maps/api';
 import mockCompaniesData from "@/mockData/mock_companies.json";
 
 const Companies = () => {
@@ -60,49 +61,93 @@ const Companies = () => {
     return iconMap[polo] || { icon: "🏢", color: "#6B7280" };
   };
 
+  const { isLoaded } = useJsApiLoader({
+    id: 'google-map-script',
+    googleMapsApiKey: 'AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic'
+  });
+
+  const [selectedCompany, setSelectedCompany] = useState(null);
+
+  const mapCenter = {
+    lat: -8.3564,
+    lng: -34.9392
+  };
+
+  const mapOptions = {
+    zoom: 13,
+    mapTypeId: 'satellite'
+  };
+
   const MapComponent = () => {
+    if (!isLoaded) {
+      return (
+        <div className="h-[600px] bg-muted/30 rounded-lg flex items-center justify-center">
+          <p className="text-muted-foreground">Carregando mapa...</p>
+        </div>
+      );
+    }
+
     return (
-      <div className="h-[600px] bg-muted/30 rounded-lg relative">
-        <iframe
-          width="100%"
-          height="100%"
-          style={{ border: 0, borderRadius: '8px' }}
-          loading="lazy"
-          allowFullScreen
-          referrerPolicy="no-referrer-when-downgrade"
-          src={`https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite`}
-        />
-        
-        {/* Company markers overlay */}
-        <div className="absolute inset-0 pointer-events-none">
-          {filteredCompanies.map((company, index) => {
+      <div className="h-[600px] relative">
+        <GoogleMap
+          mapContainerStyle={{ width: '100%', height: '100%', borderRadius: '8px' }}
+          center={mapCenter}
+          zoom={mapOptions.zoom}
+          options={{
+            mapTypeId: mapOptions.mapTypeId,
+            streetViewControl: false,
+            mapTypeControl: true,
+            fullscreenControl: true,
+            zoomControl: true
+          }}
+        >
+          {filteredCompanies.map((company) => {
             const { icon, color } = getPoloIcon(company.type);
-            // Simple positioning based on lat/lng relative to center
-            const centerLat = -8.3564;
-            const centerLng = -34.9392;
-            const offsetLat = (company.location.lat - centerLat) * 8000; // Scale factor for positioning
-            const offsetLng = (company.location.lng - centerLng) * 8000;
-            
             return (
-              <div
+              <MarkerF
                 key={company.id}
-                className="absolute transform -translate-x-1/2 -translate-y-1/2 pointer-events-auto"
-                style={{
-                  left: `calc(50% + ${offsetLng}px)`,
-                  top: `calc(50% + ${offsetLat}px)`,
+                position={{ lat: company.location.lat, lng: company.location.lng }}
+                icon={{
+                  url: `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`
+                    <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                      <circle cx="16" cy="16" r="14" fill="${color}" stroke="white" stroke-width="2"/>
+                      <text x="16" y="20" text-anchor="middle" font-size="14" fill="white">${icon}</text>
+                    </svg>
+                  `)}`,
+                  scaledSize: new window.google.maps.Size(32, 32),
+                  anchor: new window.google.maps.Point(16, 16)
                 }}
-                title={`${company.name} - ${company.type}`}
-              >
-                <div 
-                  className="w-8 h-8 rounded-full flex items-center justify-center text-white text-sm font-bold shadow-lg cursor-pointer hover:scale-110 transition-transform"
-                  style={{ backgroundColor: color }}
-                >
-                  {icon}
-                </div>
-              </div>
+                onClick={() => setSelectedCompany(company)}
+              />
             );
           })}
-        </div>
+
+          {selectedCompany && (
+            <InfoWindowF
+              position={{ lat: selectedCompany.location.lat, lng: selectedCompany.location.lng }}
+              onCloseClick={() => setSelectedCompany(null)}
+            >
+              <div className="p-2 max-w-xs">
+                <h4 className="font-semibold text-sm mb-1">{selectedCompany.name}</h4>
+                <p className="text-xs text-gray-600 mb-2">{selectedCompany.type}</p>
+                <p className="text-xs mb-2">{selectedCompany.description}</p>
+                <div className="flex flex-wrap gap-1 mb-2">
+                  {selectedCompany.materials.slice(0, 3).map((material, index) => (
+                    <span key={index} className="bg-gray-100 px-1 py-0.5 rounded text-xs">
+                      {material}
+                    </span>
+                  ))}
+                  {selectedCompany.materials.length > 3 && (
+                    <span className="text-xs text-gray-500">+{selectedCompany.materials.length - 3} mais</span>
+                  )}
+                </div>
+                <div className="text-xs text-gray-600">
+                  <p>{selectedCompany.contacts} conexões</p>
+                </div>
+              </div>
+            </InfoWindowF>
+          )}
+        </GoogleMap>
 
         <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
           <div className="flex items-center gap-2 mb-2">
