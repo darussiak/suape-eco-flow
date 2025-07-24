@@ -1,0 +1,182 @@
+[
+  {
+    "empresa":"UNILEVER CD",
+    "tipo_residuo":"Lodo Org\u00e2nico",
+    "quantidade_mensal":15.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"ETAR na Sede",
+    "custo_descarte_adequado":250,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, receita com fertilizante."
+  },
+  {
+    "empresa":"BUNGE ALIMENTOS S\/A",
+    "tipo_residuo":"Lodo Org\u00e2nico",
+    "quantidade_mensal":10.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"ETAR na Sede",
+    "custo_descarte_adequado":250,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, receita com fertilizante."
+  },
+  {
+    "empresa":"REFINARIA ABREU E LIMA",
+    "tipo_residuo":"Borra Oleosa",
+    "quantidade_mensal":70.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos\/ETAR",
+    "custo_descarte_adequado":800,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial para coprocessamento."
+  },
+  {
+    "empresa":"REFINARIA ABREU E LIMA",
+    "tipo_residuo":"\u00c1gua Oleosa",
+    "quantidade_mensal":200.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"ETAR na Sede",
+    "custo_descarte_adequado":500,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, reuso de \u00e1gua ap\u00f3s tratamento."
+  },
+  {
+    "empresa":"AMCOR FLEXIBLES DO BRASIL",
+    "tipo_residuo":"Pl\u00e1sticos (filmes\/embalagens)",
+    "quantidade_mensal":7.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"Centro de Triagem da F\u00e1brica",
+    "custo_descarte_adequado":200,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de venda."
+  },
+  {
+    "empresa":"SULOG - SUAPE LOG\u00cdSTICA S\/A",
+    "tipo_residuo":"Pneus Inserv\u00edveis",
+    "quantidade_mensal":2.0,
+    "disponibilidade":"Vari\u00e1vel",
+    "local_coleta":"P\u00e1tio da Garagem\/Terminal",
+    "custo_descarte_adequado":350,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, menor impacto ambiental."
+  },
+  {
+    "empresa":"TECON SUAPE S.A",
+    "tipo_residuo":"Pneus Inserv\u00edveis",
+    "quantidade_mensal":3.0,
+    "disponibilidade":"Vari\u00e1vel",
+    "local_coleta":"P\u00e1tio do Terminal",
+    "custo_descarte_adequado":350,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, menor impacto ambiental."
+  },
+  {
+    "empresa":"SULOG - SUAPE LOG\u00cdSTICA S\/A",
+    "tipo_residuo":"\u00d3leo de Caminh\u00f5es (OLUC)",
+    "quantidade_mensal":0.8,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"Oficina da Garagem",
+    "custo_descarte_adequado":150,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, evita contamina\u00e7\u00e3o."
+  },
+  {
+    "empresa":"PAMESA DO BRASIL S.A",
+    "tipo_residuo":"Res\u00edduos Cer\u00e2micos (P\u00f3\/Quebras)",
+    "quantidade_mensal":20.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Produ\u00e7\u00e3o",
+    "custo_descarte_adequado":100,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, reuso como agregado."
+  },
+  {
+    "empresa":"BALL BEVERAGE CAN S.A",
+    "tipo_residuo":"Sucata de Alum\u00ednio",
+    "quantidade_mensal":30.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":-50,
+    "impacto_economia_circular":"Gera\u00e7\u00e3o de receita, economia de energia na produ\u00e7\u00e3o."
+  },
+  {
+    "empresa":"SOLU\u00c7\u00d5ES EM A\u00c7O USIMINAS S\/A",
+    "tipo_residuo":"Sucata Ferrosa (limpa)",
+    "quantidade_mensal":10.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":-100,
+    "impacto_economia_circular":"Gera\u00e7\u00e3o de receita, economia de energia na produ\u00e7\u00e3o."
+  },
+  {
+    "empresa":"GRI TOWER BRASIL ESTRUTURAS MET\u00c1LICAS S\/A",
+    "tipo_residuo":"Sucata Ferrosa (pesada)",
+    "quantidade_mensal":15.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":-100,
+    "impacto_economia_circular":"Gera\u00e7\u00e3o de receita, economia de energia na produ\u00e7\u00e3o."
+  },
+  {
+    "empresa":"SIW KITS EOLICOS LTDA",
+    "tipo_residuo":"Res\u00edduos de Fibra de Vidro",
+    "quantidade_mensal":5.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"\u00c1rea de Descarte da F\u00e1brica",
+    "custo_descarte_adequado":400,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de reuso em comp\u00f3sitos."
+  },
+  {
+    "empresa":"DECA CABO DE SANTO AGOSTINHO",
+    "tipo_residuo":"Res\u00edduos Lignocelul\u00f3sicos",
+    "quantidade_mensal":20.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":100,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, uso como combust\u00edvel."
+  },
+  {
+    "empresa":"SHINERAY DO BRASIL S\/A",
+    "tipo_residuo":"Sucata Met\u00e1lica (diversa)",
+    "quantidade_mensal":8.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"\u00c1rea de Descarte da F\u00e1brica",
+    "custo_descarte_adequado":-80,
+    "impacto_economia_circular":"Gera\u00e7\u00e3o de receita, economia de energia."
+  },
+  {
+    "empresa":"PQS \/ ALPEK POLYESTER BRASIL",
+    "tipo_residuo":"Res\u00edduos de PET\/Poli\u00e9ster",
+    "quantidade_mensal":10.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":250,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de reciclagem."
+  },
+  {
+    "empresa":"INDORAMA VENTURES POL\u00cdMEROS S\/A",
+    "tipo_residuo":"Res\u00edduos de PET\/Pol\u00edmeros",
+    "quantidade_mensal":20.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":250,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de reciclagem."
+  },
+  {
+    "empresa":"SOLAR COCA-COLA",
+    "tipo_residuo":"Embalagens PET (fora de especifica\u00e7\u00e3o)",
+    "quantidade_mensal":5.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"\u00c1rea de Rejeitos da Produ\u00e7\u00e3o",
+    "custo_descarte_adequado":180,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de reciclagem."
+  },
+  {
+    "empresa":"AMANCO WAVIN BRASIL LTDA",
+    "tipo_residuo":"Res\u00edduos Pl\u00e1sticos (tubos\/conex\u00f5es)",
+    "quantidade_mensal":7.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"\u00c1rea de Descarte da F\u00e1brica",
+    "custo_descarte_adequado":200,
+    "impacto_economia_circular":"Redu\u00e7\u00e3o de custos, potencial de reciclagem."
+  },
+  {
+    "empresa":"GRI FLANGES BRASIL FORJADOS DE A\u00c7O S\/A",
+    "tipo_residuo":"Sucata Ferrosa (forjados)",
+    "quantidade_mensal":10.0,
+    "disponibilidade":"Cont\u00ednua",
+    "local_coleta":"P\u00e1tio de Res\u00edduos da F\u00e1brica",
+    "custo_descarte_adequado":-100,
+    "impacto_economia_circular":"Gera\u00e7\u00e3o de receita, economia de energia."
+  }
+]
