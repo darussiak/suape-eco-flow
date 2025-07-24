@@ -1,24 +1,24 @@
 [
   {
-    "company_name": "TEGMA GESTÃO LOGÍSTICA S/A",
+    "company_name": "TEGMA GEST\u00c3O LOG\u00cdSTICA S/A",
     "area_ha": "22.1638",
     "perimeter_m": "3,201.71",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte, 3005 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 3005 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.346737,
-    "longitude": -34.932656,
+    "latitude": -8.4000160932141,
+    "longitude": -35.0212207058423,
     "id": 1,
-    "email_contato": "contato@tegmagestãologísticasa.com.br",
+    "email_contato": "contato@tegmagest\u00e3olog\u00edsticasa.com.br",
     "telefone_contato": "(81) 94595-2993",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "ARCOR DO BRASIL LTDA (B)",
@@ -26,81 +26,81 @@
     "perimeter_m": "2,137.39",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia  PE-060, Km 12,5 - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.358303,
-    "longitude": -34.942118,
+    "latitude": -8.380129338095468,
+    "longitude": -34.99073701823055,
     "id": 2,
     "email_contato": "contato@arcordobrasilb.com.br",
     "telefone_contato": "(81) 96741-2499",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "KOMBOOGIE BRASIL LOGÍSTICA (AQF Engenharia)",
+    "company_name": "KOMBOOGIE BRASIL LOG\u00cdSTICA (AQF Engenharia)",
     "area_ha": "10.0065",
     "perimeter_m": "1,703.94",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.376497,
-    "longitude": -34.934832,
+    "latitude": -8.404395185092794,
+    "longitude": -34.9708569847014,
     "id": 3,
-    "email_contato": "contato@komboogiebrasillogísticaaqfengenharia.com.br",
+    "email_contato": "contato@komboogiebrasillog\u00edsticaaqfengenharia.com.br",
     "telefone_contato": "(81) 95834-5236",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "SULOG - SUAPE LOGÍSTICA S/A",
+    "company_name": "SULOG - SUAPE LOG\u00cdSTICA S/A",
     "area_ha": "4.2505",
     "perimeter_m": "895.83",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.354299,
-    "longitude": -34.940162,
+    "latitude": -8.36978575136429,
+    "longitude": -35.00904634045159,
     "id": 4,
-    "email_contato": "contato@sulogsuapelogísticasa.com.br",
+    "email_contato": "contato@sulogsuapelog\u00edsticasa.com.br",
     "telefone_contato": "(81) 93424-7358",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
     "company_name": "SIW KITS EOLICOS LTDA (ANTIGA NOV FIBER GLASS)",
     "area_ha": "7.6648",
     "perimeter_m": "1,142.01",
-    "polo": "Eólico",
+    "polo": "E\u00f3lico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.382911,
-    "longitude": -34.935972,
+    "latitude": -8.370201113051776,
+    "longitude": -34.977306140554894,
     "id": 5,
     "email_contato": "contato@siwkitseolicosnovfiberglass.com.br",
     "telefone_contato": "(81) 92859-1417",
     "residuos_gerados": [
-      "Resíduos de fibra de vidro",
-      "Sucata metálica"
+      "Res\u00edduos de fibra de vidro",
+      "Sucata met\u00e1lica"
     ],
-    "descricao_empresa": "Indústria especializada na fabricação de componentes para o setor de energia eólica."
+    "descricao_empresa": "Ind\u00fastria especializada na fabrica\u00e7\u00e3o de componentes para o setor de energia e\u00f3lica."
   },
   {
     "company_name": "AGUILAR Y SALAS",
@@ -108,20 +108,20 @@
     "perimeter_m": "1,064.17",
     "polo": "Metalmecanico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.35428,
-    "longitude": -34.931668,
+    "latitude": -8.390214737387094,
+    "longitude": -35.00154438272944,
     "id": 6,
     "email_contato": "contato@aguilarysalas.com.br",
     "telefone_contato": "(81) 95212-5600",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
     "company_name": "UNILEVER CD (WT CB/ WT RECIFE/ WT SECURITIZADORA) - UNILEVR",
@@ -129,165 +129,165 @@
     "perimeter_m": "2,122.67",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Taiwan, s/n, Engenho do Meio, Parte D, Distrito Industrial de Ipojuca - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.381748,
-    "longitude": -34.948293,
+    "latitude": -8.398424055710631,
+    "longitude": -35.02041330565771,
     "id": 7,
     "email_contato": "contato@unilevercdwtcbwtrecifewtsecuritizadoraunilevr.com.br",
     "telefone_contato": "(81) 95687-2704",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
     "company_name": "EMBRALOC LOCADORA (ANTIGA RIP)",
     "area_ha": "1.8495",
     "perimeter_m": "609.59",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MeioEndereço",
-    "endereco": "Rodovia PE-60, Km 10, 8322 Complexo Portuário de - SUAPE, PE, 54510-350Município",
+    "engenho": "Engenho MeioEndere\u00e7o",
+    "endereco": "Rodovia PE-60, Km 10, 8322 Complexo Portu\u00e1rio de - SUAPE, PE, 54510-350Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.355298,
-    "longitude": -34.911687,
+    "latitude": -8.372472275388553,
+    "longitude": -35.00748766992122,
     "id": 8,
     "email_contato": "contato@embraloclocadorarip.com.br",
     "telefone_contato": "(81) 91249-7299",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
     "company_name": "ARCLIMA ENGENHARIA LTDA",
     "area_ha": "2.2000",
     "perimeter_m": "624.45",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, 835, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, 835, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.36256,
-    "longitude": -34.923525,
+    "latitude": -8.369389508592736,
+    "longitude": -34.96685434249849,
     "id": 9,
     "email_contato": "contato@arclimaengenharia.com.br",
     "telefone_contato": "(81) 98756-2369",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
-    "company_name": "AMCOR FLEXIBLES DO BRASIL (EMPLAL NORDESTE EMBALAGENS PLÁSTICAS LTDA)",
+    "company_name": "AMCOR FLEXIBLES DO BRASIL (EMPLAL NORDESTE EMBALAGENS PL\u00c1STICAS LTDA)",
     "area_ha": "3.4959",
     "perimeter_m": "752.06",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.35754,
-    "longitude": -34.916225,
+    "latitude": -8.368229529653881,
+    "longitude": -34.994232286272705,
     "id": 10,
-    "email_contato": "contato@amcorflexiblesdobrasilemplalnordesteembalagensplásticas.com.br",
+    "email_contato": "contato@amcorflexiblesdobrasilemplalnordesteembalagenspl\u00e1sticas.com.br",
     "telefone_contato": "(81) 97611-3480",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
-    "company_name": "FORTE PLÁSTICO (AGUAFLEX)",
+    "company_name": "FORTE PL\u00c1STICO (AGUAFLEX)",
     "area_ha": "3.5584",
     "perimeter_m": "901.05",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Av. Tronco Distribuidor Rodoviário Norte, S/Nº Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Av. Tronco Distribuidor Rodovi\u00e1rio Norte, S/N\u00ba Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.349787,
-    "longitude": -34.909259,
+    "latitude": -8.36098020172522,
+    "longitude": -35.031821121273275,
     "id": 11,
-    "email_contato": "contato@forteplásticoaguaflex.com.br",
+    "email_contato": "contato@fortepl\u00e1sticoaguaflex.com.br",
     "telefone_contato": "(81) 91439-6386",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
     "company_name": "BALL BEVERAGE CAN SOUTH AMERICA S/A (ANTIGA LATASA/REXAN)",
     "area_ha": "19.9418",
     "perimeter_m": "1,819.93",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão Industrial / Engenho SerrariaEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o Industrial / Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.371405,
-    "longitude": -34.92208,
+    "latitude": -8.352501556068558,
+    "longitude": -34.97743755813668,
     "id": 12,
     "email_contato": "contato@ballbeveragecansouthamericasalatasarexan.com.br",
     "telefone_contato": "(81) 94097-8482",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
     "company_name": "PAMESA DO BRASIL S.A",
     "area_ha": "18.8862",
     "perimeter_m": "1,972.67",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte, nº 1414 - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte, n\u00ba 1414 - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.366886,
-    "longitude": -34.907674,
+    "latitude": -8.394955752849969,
+    "longitude": -35.023243537843584,
     "id": 13,
     "email_contato": "contato@pamesadobrasilsa.com.br",
     "telefone_contato": "(81) 96927-3501",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
     "company_name": "POSTO PETROLEO SUAPE  ( ANTIGO DISLUB/BR)",
     "area_ha": "1.8504",
     "perimeter_m": "551.97",
-    "polo": "Granéis Líquidos e Gases",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Armínio Guilherme, 907 - Rosário, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Arm\u00ednio Guilherme, 907 - Ros\u00e1rio, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.373133,
-    "longitude": -34.904291,
+    "latitude": -8.353836885248544,
+    "longitude": -35.02339858990533,
     "id": 14,
     "email_contato": "contato@postopetroleosuapeantigodislubbr.com.br",
     "telefone_contato": "(81) 95753-6282",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
     "company_name": "SOLAR COCA-COLA (NORSA REFRIGERANTES S/A)",
@@ -295,123 +295,123 @@
     "perimeter_m": "2,195.17",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Complexo Portuário de Suape - PE-060, S/N - Engenho Serraria, Cabo de Santo Agostinho - PE, 54520-992Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Complexo Portu\u00e1rio de Suape - PE-060, S/N - Engenho Serraria, Cabo de Santo Agostinho - PE, 54520-992Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.370181,
-    "longitude": -34.920685,
+    "latitude": -8.354557221325184,
+    "longitude": -35.025874714957006,
     "id": 15,
     "email_contato": "contato@solarcocacolanorsarefrigerantessa.com.br",
     "telefone_contato": "(81) 96425-3821",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "AMANCO WAVIN BRASIL LTDA (MEXICHEM BRASIL INDÚSTRIA DE TRANSFORMAÇÃO PLÁSTICA LTDA)",
+    "company_name": "AMANCO WAVIN BRASIL LTDA (MEXICHEM BRASIL IND\u00daSTRIA DE TRANSFORMA\u00c7\u00c3O PL\u00c1STICA LTDA)",
     "area_ha": "11.1816",
     "perimeter_m": "1,523.46",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estr. Tdr Norte, 1251 - Santo Agostinho, Cabo de Santo Agostinho - PE, 55590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 1251 - Santo Agostinho, Cabo de Santo Agostinho - PE, 55590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.354205,
-    "longitude": -34.914902,
+    "latitude": -8.398957999691778,
+    "longitude": -35.00127173086137,
     "id": 16,
-    "email_contato": "contato@amancowavinbrasilmexichembrasilindústriadetransformaçãoplástica.com.br",
+    "email_contato": "contato@amancowavinbrasilmexichembrasilind\u00fastriadetransforma\u00e7\u00e3opl\u00e1stica.com.br",
     "telefone_contato": "(81) 93474-2189",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
-    "company_name": "E-LOG PÁTIO DE TRIAGEM (IMPSA)",
+    "company_name": "E-LOG P\u00c1TIO DE TRIAGEM (IMPSA)",
     "area_ha": "15.6037",
     "perimeter_m": "2,502.57",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.370497,
-    "longitude": -34.931145,
+    "latitude": -8.357086892677385,
+    "longitude": -35.005913988949644,
     "id": 17,
-    "email_contato": "contato@elogpátiodetriagemimpsa.com.br",
+    "email_contato": "contato@elogp\u00e1tiodetriagemimpsa.com.br",
     "telefone_contato": "(81) 98857-8739",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "PALETIZA INDÚSTRIA E COMÉRCIO DE MADEIRA LTDA",
+    "company_name": "PALETIZA IND\u00daSTRIA E COM\u00c9RCIO DE MADEIRA LTDA",
     "area_ha": "2.1600",
     "perimeter_m": "602.87",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estrada TDR norte, 6140 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estrada TDR norte, 6140 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.367288,
-    "longitude": -34.932459,
+    "latitude": -8.37744441479789,
+    "longitude": -34.97907716326165,
     "id": 18,
-    "email_contato": "contato@paletizaindústriaecomérciodemadeira.com.br",
+    "email_contato": "contato@paletizaind\u00fastriaecom\u00e9rciodemadeira.com.br",
     "telefone_contato": "(81) 95032-1661",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
-    "company_name": "SOLUÇÕES EM AÇO USIMINAS S/A",
+    "company_name": "SOLU\u00c7\u00d5ES EM A\u00c7O USIMINAS S/A",
     "area_ha": "6.0948",
     "perimeter_m": "1,124.41",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Av. Tronco Distribuidor Rodoviário Norte, S/Nº Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Av. Tronco Distribuidor Rodovi\u00e1rio Norte, S/N\u00ba Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.364267,
-    "longitude": -34.909767,
+    "latitude": -8.39819469449689,
+    "longitude": -35.03012786333991,
     "id": 19,
-    "email_contato": "contato@soluçõesemaçousiminassa.com.br",
+    "email_contato": "contato@solu\u00e7\u00f5esema\u00e7ousiminassa.com.br",
     "telefone_contato": "(81) 98576-1845",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
-    "company_name": "PLASTAMP INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA",
+    "company_name": "PLASTAMP IND\u00daSTRIA E COM\u00c9RCIO DE PL\u00c1STICOS LTDA",
     "area_ha": "5.0607",
     "perimeter_m": "925.35",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.3614,
-    "longitude": -34.902244,
+    "latitude": -8.386824363811627,
+    "longitude": -34.99066609443745,
     "id": 20,
-    "email_contato": "contato@plastampindústriaecomérciodeplásticos.com.br",
+    "email_contato": "contato@plastampind\u00fastriaecom\u00e9rciodepl\u00e1sticos.com.br",
     "telefone_contato": "(81) 92785-4571",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
     "company_name": "CAMPARI DO BRASIL LTDA",
@@ -419,20 +419,20 @@
     "perimeter_m": "1,083.93",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.356753,
-    "longitude": -34.926856,
+    "latitude": -8.35837890896269,
+    "longitude": -34.973957583121205,
     "id": 21,
     "email_contato": "contato@camparidobrasil.com.br",
     "telefone_contato": "(81) 96377-9848",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
     "company_name": "CAMIL ALIMENTOS S/A",
@@ -440,20 +440,20 @@
     "perimeter_m": "824.93",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.361164,
-    "longitude": -34.916469,
+    "latitude": -8.391055617110492,
+    "longitude": -35.04213187302859,
     "id": 22,
     "email_contato": "contato@camilalimentossa.com.br",
     "telefone_contato": "(81) 95114-9444",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
     "company_name": "PERNOD RICARD BRASIL",
@@ -461,225 +461,225 @@
     "perimeter_m": "919.46",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.372957,
-    "longitude": -34.915739,
+    "latitude": -8.385591105705009,
+    "longitude": -34.99229142162393,
     "id": 23,
     "email_contato": "contato@pernodricardbrasil.com.br",
     "telefone_contato": "(81) 93906-9919",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "BADEN EMPREENDIMENTOS E PARTICIPAÇÃO S/A",
+    "company_name": "BADEN EMPREENDIMENTOS E PARTICIPA\u00c7\u00c3O S/A",
     "area_ha": "6.6431",
     "perimeter_m": "1,061.86",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.348076,
-    "longitude": -34.929226,
+    "latitude": -8.356408153826006,
+    "longitude": -34.96472623979284,
     "id": 24,
-    "email_contato": "contato@badenempreendimentoseparticipaçãosa.com.br",
+    "email_contato": "contato@badenempreendimentoseparticipa\u00e7\u00e3osa.com.br",
     "telefone_contato": "(81) 93442-1644",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
-    "company_name": "CRISTALPET DO BRASIL INDÚSTRIA DE EMBALAGENS LTDA (ENVASE)",
+    "company_name": "CRISTALPET DO BRASIL IND\u00daSTRIA DE EMBALAGENS LTDA (ENVASE)",
     "area_ha": "5.2313",
     "perimeter_m": "984.95",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.364815,
-    "longitude": -34.932024,
+    "latitude": -8.362464065654807,
+    "longitude": -35.03844284454983,
     "id": 25,
-    "email_contato": "contato@cristalpetdobrasilindústriadeembalagensenvase.com.br",
+    "email_contato": "contato@cristalpetdobrasilind\u00fastriadeembalagensenvase.com.br",
     "telefone_contato": "(81) 93587-6848",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
-    "company_name": "AMCOR DO NORDESTE INDÚSTRIA E COMÉRCIO DE EMBALAGENS LTDA",
+    "company_name": "AMCOR DO NORDESTE IND\u00daSTRIA E COM\u00c9RCIO DE EMBALAGENS LTDA",
     "area_ha": "2.8086",
     "perimeter_m": "761.72",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.342016,
-    "longitude": -34.918425,
+    "latitude": -8.34491781131464,
+    "longitude": -34.99099629607137,
     "id": 26,
-    "email_contato": "contato@amcordonordesteindústriaecomérciodeembalagens.com.br",
+    "email_contato": "contato@amcordonordesteind\u00fastriaecom\u00e9rciodeembalagens.com.br",
     "telefone_contato": "(81) 96946-7502",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
     "company_name": "DECA CABO DE SANTO AGOSTINHO (DURATEX S/A)",
     "area_ha": "8.4336",
     "perimeter_m": "1,252.31",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Tronco Distribuidor Rodoviário, 3927 - KM 01 - Suape, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Tronco Distribuidor Rodovi\u00e1rio, 3927 - KM 01 - Suape, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.36759,
-    "longitude": -34.919457,
+    "latitude": -8.368256567658237,
+    "longitude": -35.03663189458942,
     "id": 27,
     "email_contato": "contato@decacabodesantoagostinhoduratexsa.com.br",
     "telefone_contato": "(81) 93646-2082",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
-    "company_name": "GRI TOWER BRASIL ESTRUTURAS METÁLICAS S/A",
+    "company_name": "GRI TOWER BRASIL ESTRUTURAS MET\u00c1LICAS S/A",
     "area_ha": "13.7266",
     "perimeter_m": "1,490.84",
-    "polo": "Eólico",
+    "polo": "E\u00f3lico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte, 8147 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 8147 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.370926,
-    "longitude": -34.904141,
+    "latitude": -8.358744809353151,
+    "longitude": -35.026052659903705,
     "id": 28,
-    "email_contato": "contato@gritowerbrasilestruturasmetálicassa.com.br",
+    "email_contato": "contato@gritowerbrasilestruturasmet\u00e1licassa.com.br",
     "telefone_contato": "(81) 92802-6803",
     "residuos_gerados": [
-      "Resíduos de fibra de vidro",
-      "Sucata metálica"
+      "Res\u00edduos de fibra de vidro",
+      "Sucata met\u00e1lica"
     ],
-    "descricao_empresa": "Indústria especializada na fabricação de componentes para o setor de energia eólica."
+    "descricao_empresa": "Ind\u00fastria especializada na fabrica\u00e7\u00e3o de componentes para o setor de energia e\u00f3lica."
   },
   {
-    "company_name": "IBG - INDÚSTRIA BRASILEIRA DE GASES LTDA",
+    "company_name": "IBG - IND\u00daSTRIA BRASILEIRA DE GASES LTDA",
     "area_ha": "1.1637",
     "perimeter_m": "488.43",
-    "polo": "Granéis Líquidos e Gases",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.373009,
-    "longitude": -34.923744,
+    "latitude": -8.402497173439533,
+    "longitude": -35.017583189313115,
     "id": 29,
-    "email_contato": "contato@ibgindústriabrasileiradegases.com.br",
+    "email_contato": "contato@ibgind\u00fastriabrasileiradegases.com.br",
     "telefone_contato": "(81) 98910-1151",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
     "company_name": "BRASALPLA BRASIL IND. DE EMBALAGENS LTDA",
     "area_ha": "3.9359",
     "perimeter_m": "847.75",
-    "polo": "Pré-forma Plastica",
+    "polo": "Pr\u00e9-forma Plastica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.365035,
-    "longitude": -34.901056,
+    "latitude": -8.35243660018509,
+    "longitude": -34.99915932268198,
     "id": 30,
     "email_contato": "contato@brasalplabrasilinddeembalagens.com.br",
     "telefone_contato": "(81) 92589-7929",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
-    "company_name": "FLEX EMBALAGENS PLÁSTICAS (FLEX IMPORT COMÉRCIO INDÚSTRIA LTDA)",
+    "company_name": "FLEX EMBALAGENS PL\u00c1STICAS (FLEX IMPORT COM\u00c9RCIO IND\u00daSTRIA LTDA)",
     "area_ha": "2.3461",
     "perimeter_m": "743.63",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Engenho Algodoais, 3000 - Engenho Algodoais, Cabo de Santo Agostinho - PE, 54505-550Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Engenho Algodoais, 3000 - Engenho Algodoais, Cabo de Santo Agostinho - PE, 54505-550Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.358807,
-    "longitude": -34.930682,
+    "latitude": -8.345400391605347,
+    "longitude": -35.03025654864206,
     "id": 31,
-    "email_contato": "contato@flexembalagensplásticasfleximportcomércioindústria.com.br",
+    "email_contato": "contato@flexembalagenspl\u00e1sticasfleximportcom\u00e9rcioind\u00fastria.com.br",
     "telefone_contato": "(81) 98788-5976",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
     "company_name": "TRANSPETRO (PETROBRAS TRANSPORTE S/A)",
     "area_ha": "22.6784",
     "perimeter_m": "1,951.87",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.370237,
-    "longitude": -34.932272,
+    "latitude": -8.375676936891105,
+    "longitude": -35.002130506623146,
     "id": 32,
     "email_contato": "contato@transpetropetrobrastransportesa.com.br",
     "telefone_contato": "(81) 92606-3715",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "PEPSICO INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA",
+    "company_name": "PEPSICO IND\u00daSTRIA E COM\u00c9RCIO DE ALIMENTOS LTDA",
     "area_ha": "5.5602",
     "perimeter_m": "957.42",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.357007,
-    "longitude": -34.914207,
+    "latitude": -8.356712849232633,
+    "longitude": -34.978948547962936,
     "id": 33,
-    "email_contato": "contato@pepsicoindústriaecomérciodealimentos.com.br",
+    "email_contato": "contato@pepsicoind\u00fastriaecom\u00e9rciodealimentos.com.br",
     "telefone_contato": "(81) 96231-6057",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
     "company_name": "URBANO AGROINDUSTRIAL LTDA",
@@ -687,196 +687,196 @@
     "perimeter_m": "705.35",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.354541,
-    "longitude": -34.925536,
+    "latitude": -8.394134863936268,
+    "longitude": -35.02702811514231,
     "id": 34,
     "email_contato": "contato@urbanoagroindustrial.com.br",
     "telefone_contato": "(81) 96211-5116",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "VALGROUP PE EMBALAGENS RÍGIDAS LTDA (ANTIGA LORENPET NORDESTE/FROMPET/CENTRAL PET)",
+    "company_name": "VALGROUP PE EMBALAGENS R\u00cdGIDAS LTDA (ANTIGA LORENPET NORDESTE/FROMPET/CENTRAL PET)",
     "area_ha": "10.0001",
     "perimeter_m": "1,294.49",
-    "polo": "Preforma PET e Plástico",
+    "polo": "Preforma PET e Pl\u00e1stico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Tabatinga Ipojuca/Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Tabatinga Ipojuca/Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Cabo de Santo Agostinho/Ipojuca",
-    "latitude": -8.368062,
-    "longitude": -34.920556,
+    "latitude": -8.377589425328587,
+    "longitude": -34.99597756218266,
     "id": 35,
-    "email_contato": "contato@valgrouppeembalagensrígidaslorenpetnordestefrompetcentralpet.com.br",
+    "email_contato": "contato@valgrouppeembalagensr\u00edgidaslorenpetnordestefrompetcentralpet.com.br",
     "telefone_contato": "(81) 97893-6459",
     "residuos_gerados": [
-      "Rejeitos plásticos (PET, PE, PP)",
-      "Retalhos de plástico"
+      "Rejeitos pl\u00e1sticos (PET, PE, PP)",
+      "Retalhos de pl\u00e1stico"
     ],
-    "descricao_empresa": "Empresa focada na produção de pré-formas PET e outros produtos plásticos."
+    "descricao_empresa": "Empresa focada na produ\u00e7\u00e3o de pr\u00e9-formas PET e outros produtos pl\u00e1sticos."
   },
   {
-    "company_name": "CBMC - EMPRESA DE MATERIAIS DE CONSTRUÇÃO LTDA",
+    "company_name": "CBMC - EMPRESA DE MATERIAIS DE CONSTRU\u00c7\u00c3O LTDA",
     "area_ha": "15.0339",
     "perimeter_m": "1,691.60",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte, 10101 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte, 10101 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.357609,
-    "longitude": -34.92921,
+    "latitude": -8.380494834115876,
+    "longitude": -35.002313784210365,
     "id": 36,
-    "email_contato": "contato@cbmcempresademateriaisdeconstrução.com.br",
+    "email_contato": "contato@cbmcempresademateriaisdeconstru\u00e7\u00e3o.com.br",
     "telefone_contato": "(81) 93020-4998",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
     "company_name": "SHINERAY DO BRASIL S/A",
     "area_ha": "23.0296",
     "perimeter_m": "1,892.39",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.344991,
-    "longitude": -34.903247,
+    "latitude": -8.35945489916378,
+    "longitude": -34.996159676426544,
     "id": 37,
     "email_contato": "contato@shineraydobrasilsa.com.br",
     "telefone_contato": "(81) 92618-9363",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
     "company_name": "POSTO PORTAL DE SUAPE",
     "area_ha": "3.1743",
     "perimeter_m": "808.82",
-    "polo": "Granéis Líquidos e Gases",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
     "endereco": "Rodovia PE-060, Km 10, Engenho Massangana - CEP",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.359656,
-    "longitude": -34.917145,
+    "latitude": -8.37761559328311,
+    "longitude": -34.980670848438066,
     "id": 38,
     "email_contato": "contato@postoportaldesuape.com.br",
     "telefone_contato": "(81) 97753-3290",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "SEST SENAT - SERVIÇO NACIONAL DE APRENDIZAGEM DO TRANSPORTE",
+    "company_name": "SEST SENAT - SERVI\u00c7O NACIONAL DE APRENDIZAGEM DO TRANSPORTE",
     "area_ha": "4.0000",
     "perimeter_m": "804.31",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rodovia PE-060, Nº 4750 - CEP",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rodovia PE-060, N\u00ba 4750 - CEP",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.345117,
-    "longitude": -34.911869,
+    "latitude": -8.353680607754882,
+    "longitude": -35.03145513342486,
     "id": 39,
-    "email_contato": "contato@sestsenatserviçonacionaldeaprendizagemdotransporte.com.br",
+    "email_contato": "contato@sestsenatservi\u00e7onacionaldeaprendizagemdotransporte.com.br",
     "telefone_contato": "(81) 98042-3080",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "PDI PRÉ-FABRICADOS (PERNAMBUCO DESENVOLVIMENTO INDUSTRIAL LTDA)",
+    "company_name": "PDI PR\u00c9-FABRICADOS (PERNAMBUCO DESENVOLVIMENTO INDUSTRIAL LTDA)",
     "area_ha": "14.7056",
     "perimeter_m": "1,822.87",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rodovia PE 09 KM 38,5 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rodovia PE 09 KM 38,5 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.367513,
-    "longitude": -34.921656,
+    "latitude": -8.400183450133481,
+    "longitude": -35.01234756043796,
     "id": 40,
-    "email_contato": "contato@pdipréfabricadospernambucodesenvolvimentoindustrial.com.br",
+    "email_contato": "contato@pdipr\u00e9fabricadospernambucodesenvolvimentoindustrial.com.br",
     "telefone_contato": "(81) 92574-1826",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
-    "company_name": "SULOG - SUAPE LOGÍSTICA S/A",
+    "company_name": "SULOG - SUAPE LOG\u00cdSTICA S/A",
     "area_ha": "12.1003",
     "perimeter_m": "1,518.63",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rodovia PE 09 KM 38,5 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rodovia PE 09 KM 38,5 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.346012,
-    "longitude": -34.922054,
+    "latitude": -8.400622978986764,
+    "longitude": -35.04167579014203,
     "id": 41,
-    "email_contato": "contato@sulogsuapelogísticasa.com.br",
+    "email_contato": "contato@sulogsuapelog\u00edsticasa.com.br",
     "telefone_contato": "(81) 97912-8235",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "SUAPE ENERGIA (ENERGÉTICA SUAPE II S/A)",
+    "company_name": "SUAPE ENERGIA (ENERG\u00c9TICA SUAPE II S/A)",
     "area_ha": "24.3303",
     "perimeter_m": "2,159.87",
-    "polo": "Geração de energia",
+    "polo": "Gera\u00e7\u00e3o de energia",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MeioEndereço",
-    "endereco": "Rodovia PE-60, Km 10, 8100 Complexo Portuário de - SUAPE, PE, 54510-350Município",
+    "engenho": "Engenho MeioEndere\u00e7o",
+    "endereco": "Rodovia PE-60, Km 10, 8100 Complexo Portu\u00e1rio de - SUAPE, PE, 54510-350Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.361442,
-    "longitude": -34.931759,
+    "latitude": -8.374883797600345,
+    "longitude": -34.96409931847333,
     "id": 42,
-    "email_contato": "contato@suapeenergiaenergéticasuapeiisa.com.br",
+    "email_contato": "contato@suapeenergiaenerg\u00e9ticasuapeiisa.com.br",
     "telefone_contato": "(81) 92123-9916",
     "residuos_gerados": [
-      "Cinzas de biomassa/carvão",
-      "Óleos lubrificantes usados"
+      "Cinzas de biomassa/carv\u00e3o",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Usina de geração de energia elétrica."
+    "descricao_empresa": "Usina de gera\u00e7\u00e3o de energia el\u00e9trica."
   },
   {
     "company_name": "REFINARIA ABREU E LIMA - RNEST (PETROLEO BRASILEIRO S/A PETROBRAS)",
     "area_ha": "631.3224",
     "perimeter_m": "10,705.44",
-    "polo": "Petroquímico",
+    "polo": "Petroqu\u00edmico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MAssangana Ipojuca/Engenho Meio Ipojuca/Engenho Penderama/Engenho Mercês/Usina SalgadoEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho MAssangana Ipojuca/Engenho Meio Ipojuca/Engenho Penderama/Engenho Merc\u00eas/Usina SalgadoEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.355599,
-    "longitude": -34.928415,
+    "latitude": -8.356376444635144,
+    "longitude": -34.97492617652308,
     "id": 43,
     "email_contato": "contato@refinariaabreuelimarnestpetroleobrasileirosapetrobras.com.br",
     "telefone_contato": "(81) 94077-4460",
@@ -884,614 +884,614 @@
       "Borra oleosa",
       "Lodo industrial",
       "Catalisadores exauridos",
-      "Resíduos plásticos diversos"
+      "Res\u00edduos pl\u00e1sticos diversos"
     ],
-    "descricao_empresa": "Indústria de grande porte do setor petroquímico, com complexos processos de refino e produção."
+    "descricao_empresa": "Ind\u00fastria de grande porte do setor petroqu\u00edmico, com complexos processos de refino e produ\u00e7\u00e3o."
   },
   {
-    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA INTEGRADA TÊXTIL DE PERNAMBUCO - CITEPE)",
+    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA INTEGRADA T\u00caXTIL DE PERNAMBUCO - CITEPE)",
     "area_ha": "38.6596",
     "perimeter_m": "2,626.58",
-    "polo": "Petroquímico",
+    "polo": "Petroqu\u00edmico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.378756,
-    "longitude": -34.952204,
+    "latitude": -8.366249962389617,
+    "longitude": -34.9832970091917,
     "id": 44,
-    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiaintegradatêxtildepernambucocitepe.com.br",
+    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiaintegradat\u00eaxtildepernambucocitepe.com.br",
     "telefone_contato": "(81) 97697-2475",
     "residuos_gerados": [
       "Borra oleosa",
       "Lodo industrial",
       "Catalisadores exauridos",
-      "Resíduos plásticos diversos"
+      "Res\u00edduos pl\u00e1sticos diversos"
     ],
-    "descricao_empresa": "Indústria de grande porte do setor petroquímico, com complexos processos de refino e produção."
+    "descricao_empresa": "Ind\u00fastria de grande porte do setor petroqu\u00edmico, com complexos processos de refino e produ\u00e7\u00e3o."
   },
   {
-    "company_name": "GRI FLANGES BRASIL FORJADOS DE AÇO S/A",
+    "company_name": "GRI FLANGES BRASIL FORJADOS DE A\u00c7O S/A",
     "area_ha": "9.5221",
     "perimeter_m": "1,295.64",
-    "polo": "Eólico",
+    "polo": "E\u00f3lico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Serraria/Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte, 8147 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho Serraria/Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 8147 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.373452,
-    "longitude": -34.909626,
+    "latitude": -8.369142852367562,
+    "longitude": -34.990814405365036,
     "id": 45,
-    "email_contato": "contato@griflangesbrasilforjadosdeaçosa.com.br",
+    "email_contato": "contato@griflangesbrasilforjadosdea\u00e7osa.com.br",
     "telefone_contato": "(81) 93674-2322",
     "residuos_gerados": [
-      "Resíduos de fibra de vidro",
-      "Sucata metálica"
+      "Res\u00edduos de fibra de vidro",
+      "Sucata met\u00e1lica"
     ],
-    "descricao_empresa": "Indústria especializada na fabricação de componentes para o setor de energia eólica."
+    "descricao_empresa": "Ind\u00fastria especializada na fabrica\u00e7\u00e3o de componentes para o setor de energia e\u00f3lica."
   },
   {
-    "company_name": "E-LOG PÁTIO DE TRIAGEM (PTP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA)",
+    "company_name": "E-LOG P\u00c1TIO DE TRIAGEM (PTP EMPREENDIMENTOS E PARTICIPA\u00c7\u00d5ES LTDA)",
     "area_ha": "9.3321",
     "perimeter_m": "1,300.02",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estr. Tdr Norte, 8466 - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 8466 - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.345794,
-    "longitude": -34.930635,
+    "latitude": -8.347301967985654,
+    "longitude": -35.03103856338086,
     "id": 46,
-    "email_contato": "contato@elogpátiodetriagemptpempreendimentoseparticipações.com.br",
+    "email_contato": "contato@elogp\u00e1tiodetriagemptpempreendimentoseparticipa\u00e7\u00f5es.com.br",
     "telefone_contato": "(81) 92060-6108",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "ZIRAN NORDESTE TRANSPORTE RODOVIÁRIO DE CARGAS LTDA",
+    "company_name": "ZIRAN NORDESTE TRANSPORTE RODOVI\u00c1RIO DE CARGAS LTDA",
     "area_ha": "5.6677",
     "perimeter_m": "966.97",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.368009,
-    "longitude": -34.953825,
+    "latitude": -8.364552856179058,
+    "longitude": -34.97258984165293,
     "id": 47,
-    "email_contato": "contato@zirannordestetransporterodoviáriodecargas.com.br",
+    "email_contato": "contato@zirannordestetransporterodovi\u00e1riodecargas.com.br",
     "telefone_contato": "(81) 98411-5391",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "SEARA ALIMENTOS LTDA (ÓLEO)",
+    "company_name": "SEARA ALIMENTOS LTDA (\u00d3LEO)",
     "area_ha": "4.2789",
     "perimeter_m": "888.75",
     "polo": "Alimentos e Bebidas",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.352396,
-    "longitude": -34.944792,
+    "latitude": -8.36953376798816,
+    "longitude": -34.991840431532935,
     "id": 48,
-    "email_contato": "contato@searaalimentosóleo.com.br",
+    "email_contato": "contato@searaalimentos\u00f3leo.com.br",
     "telefone_contato": "(81) 98156-7413",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "INDORAMA VENTURES POLÍMEROS S/A (ANTIGA M&G POLÍMEROS)",
+    "company_name": "INDORAMA VENTURES POL\u00cdMEROS S/A (ANTIGA M&G POL\u00cdMEROS)",
     "area_ha": "70.7624",
     "perimeter_m": "4,047.17",
-    "polo": "Petroquímico",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "polo": "Petroqu\u00edmico",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.350357,
-    "longitude": -34.93444,
+    "latitude": -8.359438923037818,
+    "longitude": -34.963698777512,
     "id": 49,
-    "email_contato": "contato@indoramaventurespolímerossamgpolímeros.com.br",
+    "email_contato": "contato@indoramaventurespol\u00edmerossamgpol\u00edmeros.com.br",
     "telefone_contato": "(81) 96128-2170",
     "residuos_gerados": [
       "Borra oleosa",
       "Lodo industrial",
       "Catalisadores exauridos",
-      "Resíduos plásticos diversos"
+      "Res\u00edduos pl\u00e1sticos diversos"
     ],
-    "descricao_empresa": "Indústria de grande porte do setor petroquímico, com complexos processos de refino e produção."
+    "descricao_empresa": "Ind\u00fastria de grande porte do setor petroqu\u00edmico, com complexos processos de refino e produ\u00e7\u00e3o."
   },
   {
     "company_name": "DECAL BRASIL LTDA",
     "area_ha": "5.4560",
     "perimeter_m": "963.95",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.358933,
-    "longitude": -34.953968,
+    "latitude": -8.392995614052772,
+    "longitude": -34.967211125413996,
     "id": 50,
     "email_contato": "contato@decalbrasil.com.br",
     "telefone_contato": "(81) 92872-2880",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
     "company_name": "BUNGE ALIMENTOS S/A (MOINHO)",
     "area_ha": "15.0001",
     "perimeter_m": "1,663.38",
     "polo": "Alimentos e Bebidas",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Rua da Esteira - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.358831,
-    "longitude": -34.938046,
+    "latitude": -8.392289004599427,
+    "longitude": -35.02665068386252,
     "id": 51,
     "email_contato": "contato@bungealimentossamoinho.com.br",
     "telefone_contato": "(81) 98586-4796",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "LIQUIGÁS DISTRIBUIDORA S/A",
+    "company_name": "LIQUIG\u00c1S DISTRIBUIDORA S/A",
     "area_ha": "2.4075",
     "perimeter_m": "761.88",
     "polo": "Graneis Liquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.363868,
-    "longitude": -34.922126,
+    "latitude": -8.377582627362347,
+    "longitude": -35.00545180094412,
     "id": 52,
-    "email_contato": "contato@liquigásdistribuidorasa.com.br",
+    "email_contato": "contato@liquig\u00e1sdistribuidorasa.com.br",
     "telefone_contato": "(81) 99457-2291",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "COPAGAZ DISTRIBUIDORA DE GÁS S/A",
+    "company_name": "COPAGAZ DISTRIBUIDORA DE G\u00c1S S/A",
     "area_ha": "2.4154",
     "perimeter_m": "763.79",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374042,
-    "longitude": -34.920652,
+    "latitude": -8.38726592679705,
+    "longitude": -34.971212075769586,
     "id": 53,
-    "email_contato": "contato@copagazdistribuidoradegássa.com.br",
+    "email_contato": "contato@copagazdistribuidoradeg\u00e1ssa.com.br",
     "telefone_contato": "(81) 99323-4159",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "ULTRAGAZ (BAHIANA DISTRIBUIDORA DE GÁS LTDA)",
+    "company_name": "ULTRAGAZ (BAHIANA DISTRIBUIDORA DE G\u00c1S LTDA)",
     "area_ha": "2.3916",
     "perimeter_m": "757.84",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.35017,
-    "longitude": -34.925849,
+    "latitude": -8.360562225602326,
+    "longitude": -35.036041048581126,
     "id": 54,
-    "email_contato": "contato@ultragazbahianadistribuidoradegás.com.br",
+    "email_contato": "contato@ultragazbahianadistribuidoradeg\u00e1s.com.br",
     "telefone_contato": "(81) 99006-3282",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "MINASGÁS S/A INDÚSTRIA E COMÉRCIO (SUPERGASBRAS)",
+    "company_name": "MINASG\u00c1S S/A IND\u00daSTRIA E COM\u00c9RCIO (SUPERGASBRAS)",
     "area_ha": "3.0013",
     "perimeter_m": "800.01",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.350963,
-    "longitude": -34.936971,
+    "latitude": -8.35545583914618,
+    "longitude": -35.023311101133636,
     "id": 55,
-    "email_contato": "contato@minasgássaindústriaecomérciosupergasbras.com.br",
+    "email_contato": "contato@minasg\u00e1ssaind\u00fastriaecom\u00e9rciosupergasbras.com.br",
     "telefone_contato": "(81) 94229-2946",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "NACIONAL GÁS DISTRIBUIDORA LTDA",
+    "company_name": "NACIONAL G\u00c1S DISTRIBUIDORA LTDA",
     "area_ha": "9.0633",
     "perimeter_m": "1,496.67",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.37389,
-    "longitude": -34.941522,
+    "latitude": -8.370441677272488,
+    "longitude": -35.01433620114318,
     "id": 56,
-    "email_contato": "contato@nacionalgásdistribuidora.com.br",
+    "email_contato": "contato@nacionalg\u00e1sdistribuidora.com.br",
     "telefone_contato": "(81) 96031-4100",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "ULTRACARGO LOGÍSTICA S/A (TEQUIMAR)",
+    "company_name": "ULTRACARGO LOG\u00cdSTICA S/A (TEQUIMAR)",
     "area_ha": "7.9112",
     "perimeter_m": "1,404.50",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Suécia - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Su\u00e9cia - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.354315,
-    "longitude": -34.941737,
+    "latitude": -8.378810367701334,
+    "longitude": -34.97692989758968,
     "id": 57,
-    "email_contato": "contato@ultracargologísticasatequimar.com.br",
+    "email_contato": "contato@ultracargolog\u00edsticasatequimar.com.br",
     "telefone_contato": "(81) 93059-6105",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "PANDENOR IMPORTAÇÃO E EXPORTAÇÃO SPE LTDA",
+    "company_name": "PANDENOR IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O SPE LTDA",
     "area_ha": "3.0637",
     "perimeter_m": "999.74",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária, Nº69 - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria, N\u00ba69 - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.367639,
-    "longitude": -34.925686,
+    "latitude": -8.39279433794607,
+    "longitude": -35.022419476658484,
     "id": 58,
-    "email_contato": "contato@pandenorimportaçãoeexportaçãospe.com.br",
+    "email_contato": "contato@pandenorimporta\u00e7\u00e3oeexporta\u00e7\u00e3ospe.com.br",
     "telefone_contato": "(81) 99935-1313",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "TEMAPE - TERMINAIS MARÍTIMOS DE PERNAMBUCO S/A",
+    "company_name": "TEMAPE - TERMINAIS MAR\u00cdTIMOS DE PERNAMBUCO S/A",
     "area_ha": "2.7219",
     "perimeter_m": "897.85",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Avenida dos Tanques - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374858,
-    "longitude": -34.934399,
+    "latitude": -8.375018847480362,
+    "longitude": -34.98727470780039,
     "id": 59,
-    "email_contato": "contato@temapeterminaismarítimosdepernambucosa.com.br",
+    "email_contato": "contato@temapeterminaismar\u00edtimosdepernambucosa.com.br",
     "telefone_contato": "(81) 95276-4165",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "PÁTIO PÚBLICO DE VEÍCULOS (PPV 02A)",
+    "company_name": "P\u00c1TIO P\u00daBLICO DE VE\u00cdCULOS (PPV 02A)",
     "area_ha": "10.0234",
     "perimeter_m": "1,269.91",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Rua dos Pátios - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Rua dos P\u00e1tios - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.36371,
-    "longitude": -34.937844,
+    "latitude": -8.377896784624092,
+    "longitude": -35.02468005030625,
     "id": 60,
-    "email_contato": "contato@pátiopúblicodeveículosppv02a.com.br",
+    "email_contato": "contato@p\u00e1tiop\u00fablicodeve\u00edculosppv02a.com.br",
     "telefone_contato": "(81) 94309-6599",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "TECON SUAPE S.A",
     "area_ha": "38.8922",
     "perimeter_m": "2,741.84",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.365309,
-    "longitude": -34.92956,
+    "latitude": -8.354467348739812,
+    "longitude": -35.026125262920125,
     "id": 61,
     "email_contato": "contato@teconsuapesa.com.br",
     "telefone_contato": "(81) 95344-1969",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "TOC EMPREENDIMENTOS LTDA",
     "area_ha": "0.9988",
     "perimeter_m": "430.51",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.362843,
-    "longitude": -34.952996,
+    "latitude": -8.357018548594995,
+    "longitude": -35.00455806616752,
     "id": 62,
     "email_contato": "contato@tocempreendimentos.com.br",
     "telefone_contato": "(81) 98700-6273",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "MOVECTA - SUATA SERV. UNIF. DE ARM. E TERM. ALF S/A",
     "area_ha": "6.2019",
     "perimeter_m": "1,065.44",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Rua da Esteira - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.351883,
-    "longitude": -34.942979,
+    "latitude": -8.37881005757836,
+    "longitude": -34.99615389791748,
     "id": 63,
     "email_contato": "contato@movectasuataservunifdearmetermalfsa.com.br",
     "telefone_contato": "(81) 99317-5118",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "TRANSPAZ - TRANSPORTE RODOVIÁRIO DE CARGAS",
+    "company_name": "TRANSPAZ - TRANSPORTE RODOVI\u00c1RIO DE CARGAS",
     "area_ha": "1.0030",
     "perimeter_m": "433.86",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.373428,
-    "longitude": -34.944669,
+    "latitude": -8.36765788943931,
+    "longitude": -35.0180437174007,
     "id": 64,
-    "email_contato": "contato@transpaztransporterodoviáriodecargas.com.br",
+    "email_contato": "contato@transpaztransporterodovi\u00e1riodecargas.com.br",
     "telefone_contato": "(81) 94505-5076",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "ACHÉ LABORATÓRIOS FARMACÊUTICOS S/A",
+    "company_name": "ACH\u00c9 LABORAT\u00d3RIOS FARMAC\u00caUTICOS S/A",
     "area_ha": "25.0755",
     "perimeter_m": "2,245.72",
-    "polo": "Farmacêutico",
+    "polo": "Farmac\u00eautico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Gleba Leste de SuapeEndereço",
-    "endereco": "PE-009, Rota do Atlântico, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Gleba Leste de SuapeEndere\u00e7o",
+    "endereco": "PE-009, Rota do Atl\u00e2ntico, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.348279,
-    "longitude": -34.912075,
+    "latitude": -8.350631707871724,
+    "longitude": -35.00849725258868,
     "id": 65,
-    "email_contato": "contato@achélaboratóriosfarmacêuticossa.com.br",
+    "email_contato": "contato@ach\u00e9laborat\u00f3riosfarmac\u00eauticossa.com.br",
     "telefone_contato": "(81) 92118-3709",
     "residuos_gerados": [
-      "Resíduos farmacêuticos (não perigosos)",
-      "Embalagens (vidro, plástico, papelão)",
+      "Res\u00edduos farmac\u00eauticos (n\u00e3o perigosos)",
+      "Embalagens (vidro, pl\u00e1stico, papel\u00e3o)",
       "Efluentes de processo"
     ],
-    "descricao_empresa": "Laboratório ou indústria de produtos farmacêuticos."
+    "descricao_empresa": "Laborat\u00f3rio ou ind\u00fastria de produtos farmac\u00eauticos."
   },
   {
-    "company_name": "CENTRO DE PROTEÇÃO AMBIENTAL - HIDROCLEAN (BRASBUNKER PARTICIPAÇÕES S/A)",
+    "company_name": "CENTRO DE PROTE\u00c7\u00c3O AMBIENTAL - HIDROCLEAN (BRASBUNKER PARTICIPA\u00c7\u00d5ES S/A)",
     "area_ha": "0.1171",
     "perimeter_m": "138.12",
-    "polo": "Central de Serviços",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "polo": "Central de Servi\u00e7os",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.380363,
-    "longitude": -34.953996,
+    "latitude": -8.391353699120069,
+    "longitude": -34.96577463311037,
     "id": 66,
-    "email_contato": "contato@centrodeproteçãoambientalhidrocleanbrasbunkerparticipaçõessa.com.br",
+    "email_contato": "contato@centrodeprote\u00e7\u00e3oambientalhidrocleanbrasbunkerparticipa\u00e7\u00f5essa.com.br",
     "telefone_contato": "(81) 92324-4651",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "CCO CRA (CONCESSIONÁRIA ROTA DO ATLÂNTICO S/A)",
+    "company_name": "CCO CRA (CONCESSION\u00c1RIA ROTA DO ATL\u00c2NTICO S/A)",
     "area_ha": "0.7047",
     "perimeter_m": "478.14",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rodovia PE-009, KM 38,5, Nº 2074 - CEP",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rodovia PE-009, KM 38,5, N\u00ba 2074 - CEP",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.362189,
-    "longitude": -34.923188,
+    "latitude": -8.380429968592988,
+    "longitude": -35.029012051051254,
     "id": 67,
-    "email_contato": "contato@ccocraconcessionáriarotadoatlânticosa.com.br",
+    "email_contato": "contato@ccocraconcession\u00e1riarotadoatl\u00e2nticosa.com.br",
     "telefone_contato": "(81) 92042-5269",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "ROTA DERIVADOS DE PETRÓLEO LTDA",
+    "company_name": "ROTA DERIVADOS DE PETR\u00d3LEO LTDA",
     "area_ha": "1.6952",
     "perimeter_m": "608.09",
-    "polo": "Granéis Líquidos e Gases",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.358447,
-    "longitude": -34.925085,
+    "latitude": -8.385461177189116,
+    "longitude": -35.02249829658261,
     "id": 68,
-    "email_contato": "contato@rotaderivadosdepetróleo.com.br",
+    "email_contato": "contato@rotaderivadosdepetr\u00f3leo.com.br",
     "telefone_contato": "(81) 97913-3991",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
     "company_name": "PISCICULTURA AQUAGENETICS DO BRASIL LTDA - Filial PE",
     "area_ha": "8.7437",
     "perimeter_m": "1,398.74",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Tabatinga Cabo/Engenho Tabatinga IpojucaEndereço",
+    "engenho": "Engenho Tabatinga Cabo/Engenho Tabatinga IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Cabo de Santo Agostinho/Ipojuca",
-    "latitude": -8.364646,
-    "longitude": -34.916941,
+    "latitude": -8.401982382687567,
+    "longitude": -34.98347720532034,
     "id": 69,
     "email_contato": "contato@pisciculturaaquageneticsdobrasilfilialpe.com.br",
     "telefone_contato": "(81) 96711-9551",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
-    "company_name": "ANDALUZ LOGÍSTICA E TRANSPORTES LTDA",
+    "company_name": "ANDALUZ LOG\u00cdSTICA E TRANSPORTES LTDA",
     "area_ha": "1.9602",
     "perimeter_m": "578.16",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.382324,
-    "longitude": -34.932256,
+    "latitude": -8.357445903763391,
+    "longitude": -35.04219992365382,
     "id": 70,
-    "email_contato": "contato@andaluzlogísticaetransportes.com.br",
+    "email_contato": "contato@andaluzlog\u00edsticaetransportes.com.br",
     "telefone_contato": "(81) 98293-5975",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "USINA TERMELÉTRICA TERMOPERNAMBUCO (NEOENERGIA)",
+    "company_name": "USINA TERMEL\u00c9TRICA TERMOPERNAMBUCO (NEOENERGIA)",
     "area_ha": "12.9325",
     "perimeter_m": "1,649.06",
-    "polo": "Geração de Energia",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Gera\u00e7\u00e3o de Energia",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Avenida dos Tanques - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.372485,
-    "longitude": -34.936936,
+    "latitude": -8.363476414479218,
+    "longitude": -35.03786990592673,
     "id": 71,
-    "email_contato": "contato@usinatermelétricatermopernambuconeoenergia.com.br",
+    "email_contato": "contato@usinatermel\u00e9tricatermopernambuconeoenergia.com.br",
     "telefone_contato": "(81) 96162-7460",
     "residuos_gerados": [
-      "Cinzas de biomassa/carvão",
-      "Óleos lubrificantes usados"
+      "Cinzas de biomassa/carv\u00e3o",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Usina de geração de energia elétrica."
+    "descricao_empresa": "Usina de gera\u00e7\u00e3o de energia el\u00e9trica."
   },
   {
     "company_name": "VARD PROMAR S/A",
     "area_ha": "27.2406",
     "perimeter_m": "2,956.10",
     "polo": "Naval e Offshore",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de TatuocaEndereço",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de TatuocaEndere\u00e7o",
     "endereco": "Rua dos Estaleiros, s/n, Distrito Industrial - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.38408,
-    "longitude": -34.954514,
+    "latitude": -8.37400849956599,
+    "longitude": -35.03872795333308,
     "id": 72,
     "email_contato": "contato@vardpromarsa.com.br",
     "telefone_contato": "(81) 92139-5343",
     "residuos_gerados": [
-      "Sucata metálica",
-      "Resíduos de solda",
-      "Óleos e tintas"
+      "Sucata met\u00e1lica",
+      "Res\u00edduos de solda",
+      "\u00d3leos e tintas"
     ],
-    "descricao_empresa": "Estaleiro ou empresa de serviços navais e offshore."
+    "descricao_empresa": "Estaleiro ou empresa de servi\u00e7os navais e offshore."
   },
   {
     "company_name": "ROYAL MARINER",
@@ -1499,59 +1499,59 @@
     "perimeter_m": "705.37",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rodovia PE 09 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rodovia PE 09 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.340433,
-    "longitude": -34.90181,
+    "latitude": -8.349999147476469,
+    "longitude": -35.01672535144962,
     "id": 73,
     "email_contato": "contato@royalmariner.com.br",
     "telefone_contato": "(81) 98179-1167",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "VIA TÉCNICA",
+    "company_name": "VIA T\u00c9CNICA",
     "area_ha": "7.4432",
     "perimeter_m": "1,144.31",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.35213,
-    "longitude": -34.941674,
+    "latitude": -8.394902482931588,
+    "longitude": -35.02886409896843,
     "id": 74,
-    "email_contato": "contato@viatécnica.com.br",
+    "email_contato": "contato@viat\u00e9cnica.com.br",
     "telefone_contato": "(81) 91493-1518",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "VIA TÉCNICA",
+    "company_name": "VIA T\u00c9CNICA",
     "area_ha": "4.6533",
     "perimeter_m": "886.81",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada Chile - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.353289,
-    "longitude": -34.936689,
+    "latitude": -8.391841431592953,
+    "longitude": -34.96694974679726,
     "id": 75,
-    "email_contato": "contato@viatécnica.com.br",
+    "email_contato": "contato@viat\u00e9cnica.com.br",
     "telefone_contato": "(81) 98395-2508",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "CSS",
@@ -1559,40 +1559,40 @@
     "perimeter_m": "4,378.33",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Gleba Leste de SuapeEndereço",
-    "endereco": "PE-009, Rota do Atlântico, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Gleba Leste de SuapeEndere\u00e7o",
+    "endereco": "PE-009, Rota do Atl\u00e2ntico, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.348083,
-    "longitude": -34.928264,
+    "latitude": -8.357197576331385,
+    "longitude": -35.013538888777724,
     "id": 76,
     "email_contato": "contato@css.com.br",
     "telefone_contato": "(81) 97941-4628",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "MOVECTA - SUATA SERV. UNIF. DE ARM. E TERM. ALF S/A",
     "area_ha": "8.5758",
     "perimeter_m": "1,382.15",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.367231,
-    "longitude": -34.949298,
+    "latitude": -8.345773301979536,
+    "longitude": -35.03248853209708,
     "id": 77,
     "email_contato": "contato@movectasuataservunifdearmetermalfsa.com.br",
     "telefone_contato": "(81) 98374-2951",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "ARCOR DO BRASIL LTDA (A)",
@@ -1600,41 +1600,41 @@
     "perimeter_m": "1,268.74",
     "polo": "Alimentos e Bebidas",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho PenderamaEndereço",
+    "engenho": "Engenho PenderamaEndere\u00e7o",
     "endereco": "Rodovia  PE-060, Km 12,5 - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.377316,
-    "longitude": -34.954387,
+    "latitude": -8.373981861482463,
+    "longitude": -34.98784382965803,
     "id": 78,
     "email_contato": "contato@arcordobrasila.com.br",
     "telefone_contato": "(81) 97773-6807",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "ESTAÇÃO DE COMPRESSÃO - PETROBRÁS",
+    "company_name": "ESTA\u00c7\u00c3O DE COMPRESS\u00c3O - PETROBR\u00c1S",
     "area_ha": "2.2984",
     "perimeter_m": "623.46",
     "polo": "Graneis Liquidos e Gases",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho PenderamaEndereço",
+    "engenho": "Engenho PenderamaEndere\u00e7o",
     "endereco": "Estrada Alemanha - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374992,
-    "longitude": -34.925766,
+    "latitude": -8.382971048896588,
+    "longitude": -34.98777618343037,
     "id": 79,
-    "email_contato": "contato@estaçãodecompressãopetrobrás.com.br",
+    "email_contato": "contato@esta\u00e7\u00e3odecompress\u00e3opetrobr\u00e1s.com.br",
     "telefone_contato": "(81) 91699-2145",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
     "company_name": "BRASPACK EMBALAGENS DO NORDESTE S.A",
@@ -1642,19 +1642,19 @@
     "perimeter_m": "919.77",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.373852,
-    "longitude": -34.943158,
+    "latitude": -8.351334765740157,
+    "longitude": -35.008818972811284,
     "id": 80,
     "email_contato": "contato@braspackembalagensdonordestesa.com.br",
     "telefone_contato": "(81) 96157-2952",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "BRASPACK EMBALAGENS DO NORDESTE S.A",
@@ -1662,40 +1662,40 @@
     "perimeter_m": "900.26",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.362046,
-    "longitude": -34.954018,
+    "latitude": -8.374664018629074,
+    "longitude": -35.01337514150129,
     "id": 81,
     "email_contato": "contato@braspackembalagensdonordestesa.com.br",
     "telefone_contato": "(81) 94297-5298",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "ILUMISOL (ISL IMPORTAÇÃO E EXPORTAÇÃO INDÚSTRIA E COMÉRCIO LTDA)",
+    "company_name": "ILUMISOL (ISL IMPORTA\u00c7\u00c3O E EXPORTA\u00c7\u00c3O IND\u00daSTRIA E COM\u00c9RCIO LTDA)",
     "area_ha": "6.0360",
     "perimeter_m": "1,008.33",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374806,
-    "longitude": -34.932861,
+    "latitude": -8.387068711617331,
+    "longitude": -35.037824793222725,
     "id": 82,
-    "email_contato": "contato@ilumisolislimportaçãoeexportaçãoindústriaecomércio.com.br",
+    "email_contato": "contato@ilumisolislimporta\u00e7\u00e3oeexporta\u00e7\u00e3oind\u00fastriaecom\u00e9rcio.com.br",
     "telefone_contato": "(81) 99352-8599",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
     "company_name": "CNCC (ANTIGA MICROLITE)",
@@ -1703,39 +1703,39 @@
     "perimeter_m": "2,207.16",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Meio Cabo/Engenho Meio IpojucaEndereço",
+    "engenho": "Engenho Meio Cabo/Engenho Meio IpojucaEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Cabo de Santo Agostinho/Ipojuca",
-    "latitude": -8.367225,
-    "longitude": -34.917234,
+    "latitude": -8.358233771770958,
+    "longitude": -35.0403364330311,
     "id": 83,
     "email_contato": "contato@cnccmicrolite.com.br",
     "telefone_contato": "(81) 91217-9153",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "AMBIPAR OIL RECOVERY (ANTIGA SUAPE AMBIENTAL)",
     "area_ha": "1.1743",
     "perimeter_m": "464.12",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Tronco Distribuidor Rodoviário, 3575 - KM 01 - Suape, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Tronco Distribuidor Rodovi\u00e1rio, 3575 - KM 01 - Suape, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.368251,
-    "longitude": -34.911489,
+    "latitude": -8.349438009138527,
+    "longitude": -35.03387779725892,
     "id": 84,
     "email_contato": "contato@ambiparoilrecoverysuapeambiental.com.br",
     "telefone_contato": "(81) 99825-2532",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
     "company_name": "INTERCEMENT/ CIMENTO BRASIL (CIMEC)",
@@ -1743,59 +1743,59 @@
     "perimeter_m": "1,400.34",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.354804,
-    "longitude": -34.911032,
+    "latitude": -8.393944059464472,
+    "longitude": -35.0097143361591,
     "id": 85,
     "email_contato": "contato@intercementcimentobrasilcimec.com.br",
     "telefone_contato": "(81) 96189-1797",
     "residuos_gerados": [
-      "Resíduos de construção e demolição",
-      "Pó de cimento"
+      "Res\u00edduos de constru\u00e7\u00e3o e demoli\u00e7\u00e3o",
+      "P\u00f3 de cimento"
     ],
-    "descricao_empresa": "Empresa da indústria de cimento, com foco na produção de materiais de construção."
+    "descricao_empresa": "Empresa da ind\u00fastria de cimento, com foco na produ\u00e7\u00e3o de materiais de constru\u00e7\u00e3o."
   },
   {
-    "company_name": "TERMO FÉRTIL S.A (DELTA SUAPE)",
+    "company_name": "TERMO F\u00c9RTIL S.A (DELTA SUAPE)",
     "area_ha": "14.6099",
     "perimeter_m": "1,813.42",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Av. Tronco Distribuidor Rodoviário Norte, S/Nº Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Av. Tronco Distribuidor Rodovi\u00e1rio Norte, S/N\u00ba Complexo Industrial - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.351136,
-    "longitude": -34.922463,
+    "latitude": -8.35018551978829,
+    "longitude": -34.97419322625585,
     "id": 86,
-    "email_contato": "contato@termofértilsadeltasuape.com.br",
+    "email_contato": "contato@termof\u00e9rtilsadeltasuape.com.br",
     "telefone_contato": "(81) 99048-1464",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "AFC SOLUÇÕES AMBIENTAIS (ANTIGA SUAPE TÊXTIL)",
+    "company_name": "AFC SOLU\u00c7\u00d5ES AMBIENTAIS (ANTIGA SUAPE T\u00caXTIL)",
     "area_ha": "7.5505",
     "perimeter_m": "1,221.71",
-    "polo": "Central de Serviços",
+    "polo": "Central de Servi\u00e7os",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rodovia PE-060, Km 6.5 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54500-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rodovia PE-060, Km 6.5 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54500-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.368209,
-    "longitude": -34.934813,
+    "latitude": -8.367974799067158,
+    "longitude": -35.03100694801068,
     "id": 87,
-    "email_contato": "contato@afcsoluçõesambientaissuapetêxtil.com.br",
+    "email_contato": "contato@afcsolu\u00e7\u00f5esambientaissuapet\u00eaxtil.com.br",
     "telefone_contato": "(81) 97785-5026",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
     "company_name": "OSAKA (ANTIGA ENERTEC / ENERLOG)",
@@ -1803,19 +1803,19 @@
     "perimeter_m": "759.08",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.361156,
-    "longitude": -34.954483,
+    "latitude": -8.358935038974986,
+    "longitude": -35.01409065682458,
     "id": 88,
     "email_contato": "contato@osakaenertecenerlog.com.br",
     "telefone_contato": "(81) 98696-2695",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "PLASTIPAK PACKAGING DO BRASIL LTDA (ANTIGA ALUMINIC)",
@@ -1823,19 +1823,19 @@
     "perimeter_m": "1,170.49",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rodovia PE-060, Km 6.5, 7376 - Distrito Industrial de Suap, Cabo de Santo Agostinho - PE, 54500-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rodovia PE-060, Km 6.5, 7376 - Distrito Industrial de Suap, Cabo de Santo Agostinho - PE, 54500-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.345897,
-    "longitude": -34.909517,
+    "latitude": -8.348712599728746,
+    "longitude": -35.00143321650186,
     "id": 89,
     "email_contato": "contato@plastipakpackagingdobrasilaluminic.com.br",
     "telefone_contato": "(81) 95334-4413",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "LOGNOR (ANTIGA SAPEKA)",
@@ -1843,60 +1843,60 @@
     "perimeter_m": "984.15",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.341367,
-    "longitude": -34.914193,
+    "latitude": -8.3473445153569,
+    "longitude": -34.99217151755989,
     "id": 90,
     "email_contato": "contato@lognorsapeka.com.br",
     "telefone_contato": "(81) 99625-5421",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "LOGPROPERTIES (ANTIGO GRANEX)",
     "area_ha": "7.5000",
     "perimeter_m": "1,283.61",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.359501,
-    "longitude": -34.934607,
+    "latitude": -8.361175623678529,
+    "longitude": -35.01925596794663,
     "id": 91,
     "email_contato": "contato@logpropertiesantigogranex.com.br",
     "telefone_contato": "(81) 91845-2576",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "TERRANOR INDUSTRIA E COMÉRCIO MATERIAIS GRÁFICOS LTDA",
+    "company_name": "TERRANOR INDUSTRIA E COM\u00c9RCIO MATERIAIS GR\u00c1FICOS LTDA",
     "area_ha": "2.8000",
     "perimeter_m": "760.00",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.366107,
-    "longitude": -34.930949,
+    "latitude": -8.40515002371015,
+    "longitude": -34.976979013489135,
     "id": 92,
-    "email_contato": "contato@terranorindustriaecomérciomateriaisgráficos.com.br",
+    "email_contato": "contato@terranorindustriaecom\u00e9rciomateriaisgr\u00e1ficos.com.br",
     "telefone_contato": "(81) 95608-1902",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "NUTRINOR (SANTA LUCIA - BLUE VILLE)",
@@ -1904,19 +1904,19 @@
     "perimeter_m": "760.00",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.348244,
-    "longitude": -34.915516,
+    "latitude": -8.371892930510457,
+    "longitude": -34.99220938027693,
     "id": 93,
     "email_contato": "contato@nutrinorsantaluciablueville.com.br",
     "telefone_contato": "(81) 99093-3761",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "WORK MARINER LTDA (B)",
@@ -1924,82 +1924,82 @@
     "perimeter_m": "845.99",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estr. Tdr Norte - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.365179,
-    "longitude": -34.900864,
+    "latitude": -8.396026629695653,
+    "longitude": -35.03691599495968,
     "id": 94,
     "email_contato": "contato@workmarinerb.com.br",
     "telefone_contato": "(81) 99893-6001",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "DECA CABO DE SANTO AGOSTINHO (DURATEX S/A)",
     "area_ha": "3.4056",
     "perimeter_m": "997.68",
-    "polo": "Materiais de Construção",
+    "polo": "Materiais de Constru\u00e7\u00e3o",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Tronco Distribuidor Rodoviário - KM 01 - Suape, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Tronco Distribuidor Rodovi\u00e1rio - KM 01 - Suape, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.354181,
-    "longitude": -34.919969,
+    "latitude": -8.355151107757775,
+    "longitude": -34.9651466396307,
     "id": 95,
     "email_contato": "contato@decacabodesantoagostinhoduratexsa.com.br",
     "telefone_contato": "(81) 92060-8012",
     "residuos_gerados": [
-      "Resíduos cerâmicos (pó, quebras)",
+      "Res\u00edduos cer\u00e2micos (p\u00f3, quebras)",
       "Madeira (pallets, sobras)",
-      "Plásticos (embalagens de insumos)"
+      "Pl\u00e1sticos (embalagens de insumos)"
     ],
-    "descricao_empresa": "Empresa dedicada à produção e distribuição de materiais para construção civil."
+    "descricao_empresa": "Empresa dedicada \u00e0 produ\u00e7\u00e3o e distribui\u00e7\u00e3o de materiais para constru\u00e7\u00e3o civil."
   },
   {
     "company_name": "SHINERAY DO BRASIL S/A",
     "area_ha": "8.0471",
     "perimeter_m": "1,108.31",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.365694,
-    "longitude": -34.923656,
+    "latitude": -8.351791409071572,
+    "longitude": -35.039454961068934,
     "id": 96,
     "email_contato": "contato@shineraydobrasilsa.com.br",
     "telefone_contato": "(81) 92626-2568",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
-    "company_name": "WINDROSE SERVIÇOS MARÍTIMOS LTDA",
+    "company_name": "WINDROSE SERVI\u00c7OS MAR\u00cdTIMOS LTDA",
     "area_ha": "6.8643",
     "perimeter_m": "1,086.14",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estrada TDR norte, 7481 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estrada TDR norte, 7481 - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.349482,
-    "longitude": -34.926922,
+    "latitude": -8.387590629882471,
+    "longitude": -34.98241031659541,
     "id": 97,
-    "email_contato": "contato@windroseserviçosmarítimos.com.br",
+    "email_contato": "contato@windroseservi\u00e7osmar\u00edtimos.com.br",
     "telefone_contato": "(81) 97069-8238",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "EBONOR",
@@ -2007,60 +2007,60 @@
     "perimeter_m": "1,134.54",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Armínio Guilherme - Rosário, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Arm\u00ednio Guilherme - Ros\u00e1rio, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.370327,
-    "longitude": -34.901102,
+    "latitude": -8.388023232673172,
+    "longitude": -35.01903893553964,
     "id": 98,
     "email_contato": "contato@ebonor.com.br",
     "telefone_contato": "(81) 99981-9362",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "LOGWAY BRASIL (ANTIGA THOR NE)",
     "area_ha": "3.2330",
     "perimeter_m": "783.03",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
+    "engenho": "Engenho TiririEndere\u00e7o",
     "endereco": "Estrada TDR-Norte, 8626 - CEP",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.3648,
-    "longitude": -34.901745,
+    "latitude": -8.36634890529335,
+    "longitude": -35.02801748525456,
     "id": 99,
     "email_contato": "contato@logwaybrasilthorne.com.br",
     "telefone_contato": "(81) 97293-7418",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "TRADE LOGÍSTICA (ANTIGA BONESA)",
+    "company_name": "TRADE LOG\u00cdSTICA (ANTIGA BONESA)",
     "area_ha": "8.8102",
     "perimeter_m": "1,256.85",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Engenho Algodoais - Engenho Algodoais, Cabo de Santo Agostinho - PE, 54505-550Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Engenho Algodoais - Engenho Algodoais, Cabo de Santo Agostinho - PE, 54505-550Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.345313,
-    "longitude": -34.914501,
+    "latitude": -8.400495336096895,
+    "longitude": -34.983231030601594,
     "id": 100,
-    "email_contato": "contato@tradelogísticabonesa.com.br",
+    "email_contato": "contato@tradelog\u00edsticabonesa.com.br",
     "telefone_contato": "(81) 93213-7322",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "ADHETHEC",
@@ -2068,19 +2068,19 @@
     "perimeter_m": "1,040.37",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rodovia PE-060, Km 6.5 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54500-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rodovia PE-060, Km 6.5 - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54500-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.350016,
-    "longitude": -34.918139,
+    "latitude": -8.380991314118635,
+    "longitude": -34.99966240103619,
     "id": 101,
     "email_contato": "contato@adhethec.com.br",
     "telefone_contato": "(81) 94650-7148",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "PG&A",
@@ -2088,19 +2088,19 @@
     "perimeter_m": "1,419.15",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.349345,
-    "longitude": -34.904159,
+    "latitude": -8.372482657632263,
+    "longitude": -34.99822295469629,
     "id": 102,
     "email_contato": "contato@pga.com.br",
     "telefone_contato": "(81) 93813-8532",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "BATERIAS MOURA",
@@ -2108,17 +2108,17 @@
     "perimeter_m": "1,229.44",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rodovia PE-028Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rodovia PE-028Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.37078,
-    "longitude": -34.915769,
+    "latitude": -8.353292946411456,
+    "longitude": -34.96458305083788,
     "id": 103,
     "email_contato": "contato@bateriasmoura.com.br",
     "telefone_contato": "(81) 91126-5383",
     "residuos_gerados": [
-      "Baterias inservíveis (chumbo-ácido)",
-      "Plástico (carcaça de bateria)"
+      "Baterias inserv\u00edveis (chumbo-\u00e1cido)",
+      "Pl\u00e1stico (carca\u00e7a de bateria)"
     ],
     "descricao_empresa": "Fabricante ou distribuidor de baterias automotivas e industriais."
   },
@@ -2128,101 +2128,101 @@
     "perimeter_m": "1,143.50",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estr. Tdr Norte - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte - COMPLEXO INDUSTRIAL DE SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.367676,
-    "longitude": -34.917977,
+    "latitude": -8.403816975280627,
+    "longitude": -34.99308301508069,
     "id": 104,
     "email_contato": "contato@diamar.com.br",
     "telefone_contato": "(81) 91364-2433",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "POOL DE SUAPE - (VIBRA ENERGIA / IPIRANGA / RAIZEN)",
     "area_ha": "24.0122",
     "perimeter_m": "2,002.70",
-    "polo": "Granéis Líquidos e Gases",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "polo": "Gran\u00e9is L\u00edquidos e Gases",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.365417,
-    "longitude": -34.948456,
+    "latitude": -8.390778391284787,
+    "longitude": -34.97146768370619,
     "id": 105,
     "email_contato": "contato@pooldesuapevibraenergiaipirangaraizen.com.br",
     "telefone_contato": "(81) 92683-6052",
     "residuos_gerados": [
-      "Água oleosa",
+      "\u00c1gua oleosa",
       "Borra oleosa",
-      "Resíduos químicos não perigosos"
+      "Res\u00edduos qu\u00edmicos n\u00e3o perigosos"
     ],
-    "descricao_empresa": "Terminal ou distribuidora de granéis líquidos e gases."
+    "descricao_empresa": "Terminal ou distribuidora de gran\u00e9is l\u00edquidos e gases."
   },
   {
-    "company_name": "VALUE TRANSPORTE LOGÍSTICA LTDA (BINO TRANSPORTES)",
+    "company_name": "VALUE TRANSPORTE LOG\u00cdSTICA LTDA (BINO TRANSPORTES)",
     "area_ha": "1.1400",
     "perimeter_m": "482.51",
-    "polo": "Logística",
+    "polo": "Log\u00edstica",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.350341,
-    "longitude": -34.947017,
+    "latitude": -8.397215937281254,
+    "longitude": -34.98528415150067,
     "id": 106,
-    "email_contato": "contato@valuetransportelogísticabinotransportes.com.br",
+    "email_contato": "contato@valuetransportelog\u00edsticabinotransportes.com.br",
     "telefone_contato": "(81) 94288-9612",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "PASTIFÍCIO SELMI",
+    "company_name": "PASTIF\u00cdCIO SELMI",
     "area_ha": "7.3224",
     "perimeter_m": "1,338.07",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho SerrariaEndereço",
-    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho SerrariaEndere\u00e7o",
+    "endereco": "Estrada do Terceiro acesso da, PE-060 - Engenho serraria, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.351778,
-    "longitude": -34.912176,
+    "latitude": -8.37285950928373,
+    "longitude": -35.029043849370346,
     "id": 107,
-    "email_contato": "contato@pastifícioselmi.com.br",
+    "email_contato": "contato@pastif\u00edcioselmi.com.br",
     "telefone_contato": "(81) 91976-5307",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "BERTONIT UNIÃO (JOSAPAR (ANTIGA CONDOR)",
+    "company_name": "BERTONIT UNI\u00c3O (JOSAPAR (ANTIGA CONDOR)",
     "area_ha": "3.9996",
     "perimeter_m": "846.55",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.342923,
-    "longitude": -34.916986,
+    "latitude": -8.376481129837968,
+    "longitude": -34.981630746652336,
     "id": 108,
-    "email_contato": "contato@bertonituniãojosaparcondor.com.br",
+    "email_contato": "contato@bertonituni\u00e3ojosaparcondor.com.br",
     "telefone_contato": "(81) 95571-2862",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "CSS II",
@@ -2230,19 +2230,19 @@
     "perimeter_m": "7,728.73",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Gleba Leste de SuapeEndereço",
-    "endereco": "PE-009, Rota do Atlântico, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Gleba Leste de SuapeEndere\u00e7o",
+    "endereco": "PE-009, Rota do Atl\u00e2ntico, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.372139,
-    "longitude": -34.91127,
+    "latitude": -8.351996754864366,
+    "longitude": -35.01239072116783,
     "id": 109,
     "email_contato": "contato@cssii.com.br",
     "telefone_contato": "(81) 93089-6608",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "ITAPUAMA AGROINDUSTRIAL",
@@ -2250,16 +2250,16 @@
     "perimeter_m": "960.57",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Armínio Guilherme - Rosário, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Arm\u00ednio Guilherme - Ros\u00e1rio, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.371767,
-    "longitude": -34.919801,
+    "latitude": -8.40154540600257,
+    "longitude": -35.01470932248252,
     "id": 110,
     "email_contato": "contato@itapuamaagroindustrial.com.br",
     "telefone_contato": "(81) 97348-8449",
     "residuos_gerados": [
-      "Resíduos orgânicos da produção",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o",
       "Efluentes de processo"
     ],
     "descricao_empresa": "Empresa do setor agroindustrial, atuando no processamento de alimentos."
@@ -2269,60 +2269,60 @@
     "area_ha": "0.4000",
     "perimeter_m": "260.74",
     "polo": "Outros",
-    "zoneamento": "Zona Central de Serviço (ZCS)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
+    "zoneamento": "Zona Central de Servi\u00e7o (ZCS)Engenho",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
     "endereco": "Rodovia Brasil - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.366515,
-    "longitude": -34.949214,
+    "latitude": -8.352571714019472,
+    "longitude": -34.99683997676672,
     "id": 111,
     "email_contato": "contato@cascadura.com.br",
     "telefone_contato": "(81) 91706-1853",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "ÁREA DESTINADA A IMPLANTAÇÃO DE H2V",
+    "company_name": "\u00c1REA DESTINADA A IMPLANTA\u00c7\u00c3O DE H2V",
     "area_ha": "52.7649",
     "perimeter_m": "3,751.54",
-    "polo": "Hidrogênio Verde",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de TatuocaEndereço",
+    "polo": "Hidrog\u00eanio Verde",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de TatuocaEndere\u00e7o",
     "endereco": "Rua dos Estaleiros, s/n, Distrito Industrial - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.371461,
-    "longitude": -34.952128,
+    "latitude": -8.388527676028541,
+    "longitude": -34.989389480975575,
     "id": 112,
-    "email_contato": "contato@áreadestinadaaimplantaçãodeh2v.com.br",
+    "email_contato": "contato@\u00e1readestinadaaimplanta\u00e7\u00e3odeh2v.com.br",
     "telefone_contato": "(81) 96507-3793",
     "residuos_gerados": [
-      "Água purificada (rejeito de processo)",
+      "\u00c1gua purificada (rejeito de processo)",
       "Efluentes de eletrolisadores"
     ],
-    "descricao_empresa": "Área destinada à implantação de produção de hidrogênio verde."
+    "descricao_empresa": "\u00c1rea destinada \u00e0 implanta\u00e7\u00e3o de produ\u00e7\u00e3o de hidrog\u00eanio verde."
   },
   {
-    "company_name": "ITAPOAMA MINERAÇÃO LTDA",
+    "company_name": "ITAPOAMA MINERA\u00c7\u00c3O LTDA",
     "area_ha": "28.2187",
     "perimeter_m": "2,359.32",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Gleba Leste de SuapeEndereço",
-    "endereco": "PE-009, Rota do Atlântico, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Gleba Leste de SuapeEndere\u00e7o",
+    "endereco": "PE-009, Rota do Atl\u00e2ntico, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.358422,
-    "longitude": -34.900306,
+    "latitude": -8.394269903111566,
+    "longitude": -35.04015361828761,
     "id": 113,
-    "email_contato": "contato@itapoamamineração.com.br",
+    "email_contato": "contato@itapoamaminera\u00e7\u00e3o.com.br",
     "telefone_contato": "(81) 92793-4982",
     "residuos_gerados": [
-      "Rejeitos de mineração",
-      "Pó de rocha"
+      "Rejeitos de minera\u00e7\u00e3o",
+      "P\u00f3 de rocha"
     ],
-    "descricao_empresa": "Empresa de mineração ou operação de pedreira."
+    "descricao_empresa": "Empresa de minera\u00e7\u00e3o ou opera\u00e7\u00e3o de pedreira."
   },
   {
     "company_name": "BRASIL CARBONOS",
@@ -2330,59 +2330,59 @@
     "perimeter_m": "2,184.45",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Tabatinga CaboEndereço",
+    "engenho": "Engenho Tabatinga CaboEndere\u00e7o",
     "endereco": "Rodovia Suzan Cavel - CEP",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.372876,
-    "longitude": -34.916957,
+    "latitude": -8.401803036023855,
+    "longitude": -34.97397640569219,
     "id": 114,
     "email_contato": "contato@brasilcarbonos.com.br",
     "telefone_contato": "(81) 91437-2817",
     "residuos_gerados": [
-      "Pó de carbono",
-      "Resíduos de processo"
+      "P\u00f3 de carbono",
+      "Res\u00edduos de processo"
     ],
-    "descricao_empresa": "Indústria de produção de carbono."
+    "descricao_empresa": "Ind\u00fastria de produ\u00e7\u00e3o de carbono."
   },
   {
     "company_name": "PEDREIRA ANHANGUERA",
     "area_ha": "5.0000",
     "perimeter_m": "945.00",
     "polo": "Outros",
-    "zoneamento": "Zona de Preservação Ecológica (ZPEC)Engenho",
-    "engenho": "Engenho Arendepe/Engenho Conceição NovaEndereço",
-    "endereco": "Município",
+    "zoneamento": "Zona de Preserva\u00e7\u00e3o Ecol\u00f3gica (ZPEC)Engenho",
+    "engenho": "Engenho Arendepe/Engenho Concei\u00e7\u00e3o NovaEndere\u00e7o",
+    "endereco": "Munic\u00edpio",
     "municipio": "Ipojuca",
-    "latitude": -8.366663,
-    "longitude": -34.943945,
+    "latitude": -8.371114179128234,
+    "longitude": -35.01907941138088,
     "id": 115,
     "email_contato": "contato@pedreiraanhanguera.com.br",
     "telefone_contato": "(81) 95581-3468",
     "residuos_gerados": [
-      "Rejeitos de mineração",
-      "Pó de rocha"
+      "Rejeitos de minera\u00e7\u00e3o",
+      "P\u00f3 de rocha"
     ],
-    "descricao_empresa": "Empresa de mineração ou operação de pedreira."
+    "descricao_empresa": "Empresa de minera\u00e7\u00e3o ou opera\u00e7\u00e3o de pedreira."
   },
   {
     "company_name": "FUNCEF",
     "area_ha": "133.9114",
     "perimeter_m": "5,298.18",
     "polo": "Outros",
-    "zoneamento": "Zona de Preservação Ecológica (ZPEC)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "zoneamento": "Zona de Preserva\u00e7\u00e3o Ecol\u00f3gica (ZPEC)Engenho",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.357723,
-    "longitude": -34.910422,
+    "latitude": -8.362113536535755,
+    "longitude": -34.98376872216381,
     "id": 116,
     "email_contato": "contato@funcef.com.br",
     "telefone_contato": "(81) 91487-9958",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "CONCRETO REDIMIX DO BRASIL S.A",
@@ -2390,41 +2390,41 @@
     "perimeter_m": "989.76",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.362083,
-    "longitude": -34.929179,
+    "latitude": -8.37567653171308,
+    "longitude": -34.992093455353796,
     "id": 117,
     "email_contato": "contato@concretoredimixdobrasilsa.com.br",
     "telefone_contato": "(81) 96617-3058",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA PETROQUÍMICA DE PERNAMBUCO)",
+    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA PETROQU\u00cdMICA DE PERNAMBUCO)",
     "area_ha": "14.3804",
     "perimeter_m": "1,622.06",
-    "polo": "Petroquímico",
+    "polo": "Petroqu\u00edmico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374279,
-    "longitude": -34.952691,
+    "latitude": -8.358928827132774,
+    "longitude": -35.0125118388068,
     "id": 118,
-    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiapetroquímicadepernambuco.com.br",
+    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiapetroqu\u00edmicadepernambuco.com.br",
     "telefone_contato": "(81) 93841-2546",
     "residuos_gerados": [
       "Borra oleosa",
       "Lodo industrial",
       "Catalisadores exauridos",
-      "Resíduos plásticos diversos"
+      "Res\u00edduos pl\u00e1sticos diversos"
     ],
-    "descricao_empresa": "Indústria de grande porte do setor petroquímico, com complexos processos de refino e produção."
+    "descricao_empresa": "Ind\u00fastria de grande porte do setor petroqu\u00edmico, com complexos processos de refino e produ\u00e7\u00e3o."
   },
   {
     "company_name": "WORK MARINER LTDA (A)",
@@ -2432,246 +2432,246 @@
     "perimeter_m": "644.93",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Rodovia PE 09 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Rodovia PE 09 - Santo Agostinho, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.340395,
-    "longitude": -34.911812,
+    "latitude": -8.362282544815242,
+    "longitude": -34.992126088662104,
     "id": 119,
     "email_contato": "contato@workmarinera.com.br",
     "telefone_contato": "(81) 96093-4798",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA INTEGRADA TÊXTIL DE PERNAMBUCO - CITEPE)",
+    "company_name": "PQS / ALPEK POLYESTER BRASIL (COMPANHIA INTEGRADA T\u00caXTIL DE PERNAMBUCO - CITEPE)",
     "area_ha": "13.9559",
     "perimeter_m": "1,592.44",
-    "polo": "Petroquímico",
+    "polo": "Petroqu\u00edmico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
-    "endereco": "Avenida Portuária - CEP",
+    "engenho": "Suape GlobalEndere\u00e7o",
+    "endereco": "Avenida Portu\u00e1ria - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.363232,
-    "longitude": -34.932773,
+    "latitude": -8.368385804044285,
+    "longitude": -34.96799592406566,
     "id": 120,
-    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiaintegradatêxtildepernambucocitepe.com.br",
+    "email_contato": "contato@pqsalpekpolyesterbrasilcompanhiaintegradat\u00eaxtildepernambucocitepe.com.br",
     "telefone_contato": "(81) 95050-5936",
     "residuos_gerados": [
       "Borra oleosa",
       "Lodo industrial",
       "Catalisadores exauridos",
-      "Resíduos plásticos diversos"
+      "Res\u00edduos pl\u00e1sticos diversos"
     ],
-    "descricao_empresa": "Indústria de grande porte do setor petroquímico, com complexos processos de refino e produção."
+    "descricao_empresa": "Ind\u00fastria de grande porte do setor petroqu\u00edmico, com complexos processos de refino e produ\u00e7\u00e3o."
   },
   {
-    "company_name": "TR2 LOGÍSTICA",
+    "company_name": "TR2 LOG\u00cdSTICA",
     "area_ha": "2.9826",
     "perimeter_m": "420.55",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.377817,
-    "longitude": -34.944128,
+    "latitude": -8.359333357376487,
+    "longitude": -34.970408382894476,
     "id": 121,
-    "email_contato": "contato@tr2logística.com.br",
+    "email_contato": "contato@tr2log\u00edstica.com.br",
     "telefone_contato": "(81) 93751-6484",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "FEDEX (RAPIDÃO COMETA)",
+    "company_name": "FEDEX (RAPID\u00c3O COMETA)",
     "area_ha": "1.0045",
     "perimeter_m": "432.47",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.381014,
-    "longitude": -34.939526,
+    "latitude": -8.397237243306574,
+    "longitude": -34.965482765694524,
     "id": 122,
-    "email_contato": "contato@fedexrapidãocometa.com.br",
+    "email_contato": "contato@fedexrapid\u00e3ocometa.com.br",
     "telefone_contato": "(81) 95314-7219",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "SUA GRANÉIS SPE LTDA",
+    "company_name": "SUA GRAN\u00c9IS SPE LTDA",
     "area_ha": "7.2543",
     "perimeter_m": "1,148.84",
     "polo": "Outros",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Rua dos Pátios - CEP",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Rua dos P\u00e1tios - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.359811,
-    "longitude": -34.947498,
+    "latitude": -8.350747513489917,
+    "longitude": -34.99351733474182,
     "id": 123,
-    "email_contato": "contato@suagranéisspe.com.br",
+    "email_contato": "contato@suagran\u00e9isspe.com.br",
     "telefone_contato": "(81) 95238-3767",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "TERMINAL DE GRANÉIS SÓLIDOS",
+    "company_name": "TERMINAL DE GRAN\u00c9IS S\u00d3LIDOS",
     "area_ha": "74.6120",
     "perimeter_m": "3,493.26",
     "polo": "Outros",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IIEndereço",
-    "endereco": "Ilha de Cocaia IIMunicípio",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IIEndere\u00e7o",
+    "endereco": "Ilha de Cocaia IIMunic\u00edpio",
     "municipio": "Ipojuca",
-    "latitude": -8.363757,
-    "longitude": -34.925365,
+    "latitude": -8.355239776037564,
+    "longitude": -35.03803978593757,
     "id": 124,
-    "email_contato": "contato@terminaldegranéissólidos.com.br",
+    "email_contato": "contato@terminaldegran\u00e9iss\u00f3lidos.com.br",
     "telefone_contato": "(81) 92914-1586",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "SEARA ALIMENTOS LTDA  (MARGARINA)",
     "area_ha": "3.8671",
     "perimeter_m": "836.70",
     "polo": "Alimentos e Bebidas",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Avenida dos Tanques - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.358961,
-    "longitude": -34.935,
+    "latitude": -8.378099191018602,
+    "longitude": -35.03924310706111,
     "id": 125,
     "email_contato": "contato@searaalimentosmargarina.com.br",
     "telefone_contato": "(81) 92028-5098",
     "residuos_gerados": [
-      "Lodo orgânico (ETAR)",
-      "Embalagens (plástico, papelão)",
-      "Resíduos orgânicos da produção"
+      "Lodo org\u00e2nico (ETAR)",
+      "Embalagens (pl\u00e1stico, papel\u00e3o)",
+      "Res\u00edduos org\u00e2nicos da produ\u00e7\u00e3o"
     ],
-    "descricao_empresa": "Indústria do setor de alimentos e bebidas, com foco na produção e distribuição."
+    "descricao_empresa": "Ind\u00fastria do setor de alimentos e bebidas, com foco na produ\u00e7\u00e3o e distribui\u00e7\u00e3o."
   },
   {
-    "company_name": "PÁTIO PÚBLICO DE VEICULOS (PPV 02B)",
+    "company_name": "P\u00c1TIO P\u00daBLICO DE VEICULOS (PPV 02B)",
     "area_ha": "10.0001",
     "perimeter_m": "1,568.76",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
-    "endereco": "Rua dos Pátios - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
+    "endereco": "Rua dos P\u00e1tios - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374709,
-    "longitude": -34.931744,
+    "latitude": -8.368633326943558,
+    "longitude": -34.97015333965362,
     "id": 126,
-    "email_contato": "contato@pátiopúblicodeveiculosppv02b.com.br",
+    "email_contato": "contato@p\u00e1tiop\u00fablicodeveiculosppv02b.com.br",
     "telefone_contato": "(81) 98560-5703",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "MOVECTA - SUATA SERV. UNIF. DE ARM. E TERM. ALF S/A (ATLÂNTICO TERMINAIS S/A)",
+    "company_name": "MOVECTA - SUATA SERV. UNIF. DE ARM. E TERM. ALF S/A (ATL\u00c2NTICO TERMINAIS S/A)",
     "area_ha": "2.9821",
     "perimeter_m": "735.69",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Rua da Esteira - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.374419,
-    "longitude": -34.942917,
+    "latitude": -8.356920072985936,
+    "longitude": -35.028173341793206,
     "id": 127,
-    "email_contato": "contato@movectasuataservunifdearmetermalfsaatlânticoterminaissa.com.br",
+    "email_contato": "contato@movectasuataservunifdearmetermalfsaatl\u00e2nticoterminaissa.com.br",
     "telefone_contato": "(81) 99655-6092",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "CMO",
     "area_ha": "39.9988",
     "perimeter_m": "2,799.94",
     "polo": "Outros",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Tatuoca/Ilha dos BarreirosEndereço",
-    "endereco": "Município",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Tatuoca/Ilha dos BarreirosEndere\u00e7o",
+    "endereco": "Munic\u00edpio",
     "municipio": "Ipojuca",
-    "latitude": -8.362271,
-    "longitude": -34.935472,
+    "latitude": -8.347991192130655,
+    "longitude": -34.97961895142867,
     "id": 128,
     "email_contato": "contato@cmo.com.br",
     "telefone_contato": "(81) 92631-8670",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "PÁTIO PÚBLICO DE VEÍCULOS (PPV 01)",
+    "company_name": "P\u00c1TIO P\u00daBLICO DE VE\u00cdCULOS (PPV 01)",
     "area_ha": "3.5831",
     "perimeter_m": "766.23",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Rua da Esteira - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.359583,
-    "longitude": -34.943717,
+    "latitude": -8.384457704634888,
+    "longitude": -34.99071719547663,
     "id": 129,
-    "email_contato": "contato@pátiopúblicodeveículosppv01.com.br",
+    "email_contato": "contato@p\u00e1tiop\u00fablicodeve\u00edculosppv01.com.br",
     "telefone_contato": "(81) 92245-1059",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "BASE EMERGÊNCIA TERRA",
+    "company_name": "BASE EMERG\u00caNCIA TERRA",
     "area_ha": "0.0751",
     "perimeter_m": "113.19",
-    "polo": "Central de Serviços",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de Cocaia IEndereço",
+    "polo": "Central de Servi\u00e7os",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de Cocaia IEndere\u00e7o",
     "endereco": "Rua do Cais - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.35558,
-    "longitude": -34.949487,
+    "latitude": -8.377451030439097,
+    "longitude": -35.00385831431732,
     "id": 130,
-    "email_contato": "contato@baseemergênciaterra.com.br",
+    "email_contato": "contato@baseemerg\u00eanciaterra.com.br",
     "telefone_contato": "(81) 92879-2110",
     "residuos_gerados": [
-      "Resíduos de escritório",
+      "Res\u00edduos de escrit\u00f3rio",
       "Pequenos volumes de efluentes"
     ],
-    "descricao_empresa": "Centro de prestação de serviços diversos para o complexo industrial."
+    "descricao_empresa": "Centro de presta\u00e7\u00e3o de servi\u00e7os diversos para o complexo industrial."
   },
   {
     "company_name": "CESA-PEDRA (ANTIGA CERAMICA ST ANTONIO)",
@@ -2679,185 +2679,185 @@
     "perimeter_m": "1,005.70",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Rod. Nossa Senhora do Rosário, Km 7, s/n - Núcleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Rod. Nossa Senhora do Ros\u00e1rio, Km 7, s/n - N\u00facleo Residencial Ministro Marcos Fr, Cabo de Santo Agostinho - PE, 54515-070Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.347502,
-    "longitude": -34.912419,
+    "latitude": -8.39640249776881,
+    "longitude": -35.024839118013304,
     "id": 131,
     "email_contato": "contato@cesapedraceramicastantonio.com.br",
     "telefone_contato": "(81) 98163-4759",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "TERMELETRICA BOLOGNESI",
     "area_ha": "15.7487",
     "perimeter_m": "1,579.57",
-    "polo": "Geração de Energia",
+    "polo": "Gera\u00e7\u00e3o de Energia",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.369219,
-    "longitude": -34.931109,
+    "latitude": -8.3801544267507,
+    "longitude": -35.02123595504859,
     "id": 132,
     "email_contato": "contato@termeletricabolognesi.com.br",
     "telefone_contato": "(81) 91618-3062",
     "residuos_gerados": [
-      "Cinzas de biomassa/carvão",
-      "Óleos lubrificantes usados"
+      "Cinzas de biomassa/carv\u00e3o",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Usina de geração de energia elétrica."
+    "descricao_empresa": "Usina de gera\u00e7\u00e3o de energia el\u00e9trica."
   },
   {
-    "company_name": "ÁREA DESTINA A IMPLANTAÇÃO DA ZPE",
+    "company_name": "\u00c1REA DESTINA A IMPLANTA\u00c7\u00c3O DA ZPE",
     "area_ha": "64.4123",
     "perimeter_m": "3,728.90",
     "polo": "Farmaceutico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Gleba Leste de SuapeEndereço",
-    "endereco": "PE-009, Rota do Atlântico, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Gleba Leste de SuapeEndere\u00e7o",
+    "endereco": "PE-009, Rota do Atl\u00e2ntico, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.363017,
-    "longitude": -34.904656,
+    "latitude": -8.372566856386218,
+    "longitude": -35.00453647451974,
     "id": 133,
-    "email_contato": "contato@áreadestinaaimplantaçãodazpe.com.br",
+    "email_contato": "contato@\u00e1readestinaaimplanta\u00e7\u00e3odazpe.com.br",
     "telefone_contato": "(81) 97126-7350",
     "residuos_gerados": [
-      "Resíduos farmacêuticos (não perigosos)",
-      "Embalagens (vidro, plástico, papelão)",
+      "Res\u00edduos farmac\u00eauticos (n\u00e3o perigosos)",
+      "Embalagens (vidro, pl\u00e1stico, papel\u00e3o)",
       "Efluentes de processo"
     ],
-    "descricao_empresa": "Laboratório ou indústria de produtos farmacêuticos."
+    "descricao_empresa": "Laborat\u00f3rio ou ind\u00fastria de produtos farmac\u00eauticos."
   },
   {
-    "company_name": "WINDROSE-SERVIÇOS MARIT. E REPRES. LTDA (SUL)",
+    "company_name": "WINDROSE-SERVI\u00c7OS MARIT. E REPRES. LTDA (SUL)",
     "area_ha": "2.0533",
     "perimeter_m": "573.02",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Engenho MercêsEndereço",
-    "endereco": "Rodovia Atlântico - CEP",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Engenho Merc\u00easEndere\u00e7o",
+    "endereco": "Rodovia Atl\u00e2ntico - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.365161,
-    "longitude": -34.937167,
+    "latitude": -8.38674210372493,
+    "longitude": -34.965465225357725,
     "id": 134,
-    "email_contato": "contato@windroseserviçosmariterepressul.com.br",
+    "email_contato": "contato@windroseservi\u00e7osmariterepressul.com.br",
     "telefone_contato": "(81) 95096-9466",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
     "company_name": "APM TERMINALS SUAPE LTDA",
     "area_ha": "49.5003",
     "perimeter_m": "5,116.93",
-    "polo": "Logística",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de TatuocaEndereço",
+    "polo": "Log\u00edstica",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de TatuocaEndere\u00e7o",
     "endereco": "Rua dos Estaleiros, s/n, Distrito Industrial - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.381142,
-    "longitude": -34.921157,
+    "latitude": -8.395022118950022,
+    "longitude": -35.00805721730167,
     "id": 135,
     "email_contato": "contato@apmterminalssuape.com.br",
     "telefone_contato": "(81) 92248-7245",
     "residuos_gerados": [
-      "Embalagens de carga (madeira, plástico)",
-      "Pneus inservíveis",
-      "Óleos lubrificantes usados"
+      "Embalagens de carga (madeira, pl\u00e1stico)",
+      "Pneus inserv\u00edveis",
+      "\u00d3leos lubrificantes usados"
     ],
-    "descricao_empresa": "Empresa de logística e transporte, com grande movimentação de cargas e veículos."
+    "descricao_empresa": "Empresa de log\u00edstica e transporte, com grande movimenta\u00e7\u00e3o de cargas e ve\u00edculos."
   },
   {
-    "company_name": "ESTALEIRO ATLÂNTICO SUL",
+    "company_name": "ESTALEIRO ATL\u00c2NTICO SUL",
     "area_ha": "38.2774",
     "perimeter_m": "4,323.83",
     "polo": "Naval e Offshore",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de TatuocaEndereço",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de TatuocaEndere\u00e7o",
     "endereco": "Rua dos Estaleiros, s/n, Distrito Industrial - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.37679,
-    "longitude": -34.953331,
+    "latitude": -8.350411191856065,
+    "longitude": -34.98098795232367,
     "id": 136,
-    "email_contato": "contato@estaleiroatlânticosul.com.br",
+    "email_contato": "contato@estaleiroatl\u00e2nticosul.com.br",
     "telefone_contato": "(81) 91217-8617",
     "residuos_gerados": [
-      "Sucata metálica",
-      "Resíduos de solda",
-      "Óleos e tintas"
+      "Sucata met\u00e1lica",
+      "Res\u00edduos de solda",
+      "\u00d3leos e tintas"
     ],
-    "descricao_empresa": "Estaleiro ou empresa de serviços navais e offshore."
+    "descricao_empresa": "Estaleiro ou empresa de servi\u00e7os navais e offshore."
   },
   {
-    "company_name": "ESTALEIRO ATLÂNTICO SUL",
+    "company_name": "ESTALEIRO ATL\u00c2NTICO SUL",
     "area_ha": "68.7221",
     "perimeter_m": "3,732.62",
     "polo": "Naval e Offshore",
-    "zoneamento": "Zona Industrial Portuária (ZIP)Engenho",
-    "engenho": "Ilha de TatuocaEndereço",
+    "zoneamento": "Zona Industrial Portu\u00e1ria (ZIP)Engenho",
+    "engenho": "Ilha de TatuocaEndere\u00e7o",
     "endereco": "Rua dos Estaleiros, s/n, Distrito Industrial - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.368006,
-    "longitude": -34.934407,
+    "latitude": -8.39446901663849,
+    "longitude": -34.972372213147864,
     "id": 137,
-    "email_contato": "contato@estaleiroatlânticosul.com.br",
+    "email_contato": "contato@estaleiroatl\u00e2nticosul.com.br",
     "telefone_contato": "(81) 96505-7754",
     "residuos_gerados": [
-      "Sucata metálica",
-      "Resíduos de solda",
-      "Óleos e tintas"
+      "Sucata met\u00e1lica",
+      "Res\u00edduos de solda",
+      "\u00d3leos e tintas"
     ],
-    "descricao_empresa": "Estaleiro ou empresa de serviços navais e offshore."
+    "descricao_empresa": "Estaleiro ou empresa de servi\u00e7os navais e offshore."
   },
   {
     "company_name": "SHINERAY DO BRASIL S/A",
     "area_ha": "3.7097",
     "perimeter_m": "944.35",
-    "polo": "Metalmecânico",
+    "polo": "Metalmec\u00e2nico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunicípio",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte, 3005 - Santo Agostinho, Cabo de Santo Agostinho - PEMunic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.35218,
-    "longitude": -34.923096,
+    "latitude": -8.404969699916249,
+    "longitude": -34.97890275809311,
     "id": 138,
     "email_contato": "contato@shineraydobrasilsa.com.br",
     "telefone_contato": "(81) 99976-7650",
     "residuos_gerados": [
       "Sucata ferrosa",
-      "Óleos e graxas",
+      "\u00d3leos e graxas",
       "Limalha de metal"
     ],
-    "descricao_empresa": "Companhia atuante no setor metalmecânico, com processos de fabricação e montagem."
+    "descricao_empresa": "Companhia atuante no setor metalmec\u00e2nico, com processos de fabrica\u00e7\u00e3o e montagem."
   },
   {
     "company_name": "TECHUB",
     "area_ha": "1.3681",
     "perimeter_m": "532.67",
     "polo": "Outros",
-    "zoneamento": "Zona Central de Serviço (ZCS)Engenho",
-    "engenho": "Engenho Massangana IpojucaEndereço",
-    "endereco": "55590-000, Ipojuca - PEMunicípio",
+    "zoneamento": "Zona Central de Servi\u00e7o (ZCS)Engenho",
+    "engenho": "Engenho Massangana IpojucaEndere\u00e7o",
+    "endereco": "55590-000, Ipojuca - PEMunic\u00edpio",
     "municipio": "Ipojuca",
-    "latitude": -8.382166,
-    "longitude": -34.923818,
+    "latitude": -8.354231403923613,
+    "longitude": -34.964835815420834,
     "id": 139,
     "email_contato": "contato@techub.com.br",
     "telefone_contato": "(81) 97467-4663",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "PROCINSA",
@@ -2865,19 +2865,19 @@
     "perimeter_m": "918.89",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão IndustrialEndereço",
-    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Zona de Expans\u00e3o IndustrialEndere\u00e7o",
+    "endereco": "Estr. Tdr Norte - Distrito Industrial de Suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.373256,
-    "longitude": -34.906077,
+    "latitude": -8.363856867279889,
+    "longitude": -34.98243799313157,
     "id": 140,
     "email_contato": "contato@procinsa.com.br",
     "telefone_contato": "(81) 99320-6435",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
     "company_name": "MAX PINTURA",
@@ -2885,40 +2885,40 @@
     "perimeter_m": "590.10",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho TiririEndereço",
-    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho TiririEndere\u00e7o",
+    "endereco": "Estrada TDR norte - SUAPE, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.354447,
-    "longitude": -34.920322,
+    "latitude": -8.404665648820156,
+    "longitude": -35.02609961864574,
     "id": 141,
     "email_contato": "contato@maxpintura.com.br",
     "telefone_contato": "(81) 98687-7555",
     "residuos_gerados": [
-      "Resíduos gerais não perigosos",
+      "Res\u00edduos gerais n\u00e3o perigosos",
       "Embalagens diversas"
     ],
-    "descricao_empresa": "Empresa do setor industrial ou de serviços."
+    "descricao_empresa": "Empresa do setor industrial ou de servi\u00e7os."
   },
   {
-    "company_name": "BLAU FARMACÊUTICA S/A",
+    "company_name": "BLAU FARMAC\u00caUTICA S/A",
     "area_ha": "67.9909",
     "perimeter_m": "3,628.74",
-    "polo": "Farmacêutico",
+    "polo": "Farmac\u00eautico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Zona de Expansão Industrial/Engenho Meio Cabo/Engenho Tabatinga IpojucaEndereço",
-    "endereco": "Rodovia PE-60, Km 10, Complexo Portuário de - SUAPE, PE, 54510-350Município",
+    "engenho": "Zona de Expans\u00e3o Industrial/Engenho Meio Cabo/Engenho Tabatinga IpojucaEndere\u00e7o",
+    "endereco": "Rodovia PE-60, Km 10, Complexo Portu\u00e1rio de - SUAPE, PE, 54510-350Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.358969,
-    "longitude": -34.903632,
+    "latitude": -8.39972693514158,
+    "longitude": -34.9996813519729,
     "id": 142,
-    "email_contato": "contato@blaufarmacêuticasa.com.br",
+    "email_contato": "contato@blaufarmac\u00eauticasa.com.br",
     "telefone_contato": "(81) 99476-2447",
     "residuos_gerados": [
-      "Resíduos farmacêuticos (não perigosos)",
-      "Embalagens (vidro, plástico, papelão)",
+      "Res\u00edduos farmac\u00eauticos (n\u00e3o perigosos)",
+      "Embalagens (vidro, pl\u00e1stico, papel\u00e3o)",
       "Efluentes de processo"
     ],
-    "descricao_empresa": "Laboratório ou indústria de produtos farmacêuticos."
+    "descricao_empresa": "Laborat\u00f3rio ou ind\u00fastria de produtos farmac\u00eauticos."
   },
   {
     "company_name": "GRECA ASFALTO",
@@ -2926,39 +2926,39 @@
     "perimeter_m": "689.29",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.38206,
-    "longitude": -34.944888,
+    "latitude": -8.354930732981122,
+    "longitude": -35.01074943074356,
     "id": 143,
     "email_contato": "contato@grecaasfalto.com.br",
     "telefone_contato": "(81) 98469-7920",
     "residuos_gerados": [
-      "Resíduos asfálticos",
+      "Res\u00edduos asf\u00e1lticos",
       "Embalagens de insumos"
     ],
-    "descricao_empresa": "Empresa especializada na produção e distribuição de asfalto."
+    "descricao_empresa": "Empresa especializada na produ\u00e7\u00e3o e distribui\u00e7\u00e3o de asfalto."
   },
   {
     "company_name": "IMPSA (WIND POWER)",
     "area_ha": "11.0936",
     "perimeter_m": "2,502.57",
-    "polo": "Eólico",
+    "polo": "E\u00f3lico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.362526,
-    "longitude": -34.924824,
+    "latitude": -8.347433348208357,
+    "longitude": -34.97302138456093,
     "id": 144,
     "email_contato": "contato@impsawindpower.com.br",
     "telefone_contato": "(81) 96938-3595",
     "residuos_gerados": [
-      "Resíduos de fibra de vidro",
-      "Sucata metálica"
+      "Res\u00edduos de fibra de vidro",
+      "Sucata met\u00e1lica"
     ],
-    "descricao_empresa": "Indústria especializada na fabricação de componentes para o setor de energia eólica."
+    "descricao_empresa": "Ind\u00fastria especializada na fabrica\u00e7\u00e3o de componentes para o setor de energia e\u00f3lica."
   },
   {
     "company_name": "GRECA ASFALTO",
@@ -2966,38 +2966,38 @@
     "perimeter_m": "689.29",
     "polo": "Outros",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Suape GlobalEndereço",
+    "engenho": "Suape GlobalEndere\u00e7o",
     "endereco": "Estrada India - CEP",
     "municipio": "Ipojuca",
-    "latitude": -8.354131,
-    "longitude": -34.93012,
+    "latitude": -8.35531957243556,
+    "longitude": -34.99960212517803,
     "id": 145,
     "email_contato": "contato@grecaasfalto.com.br",
     "telefone_contato": "(81) 98151-6050",
     "residuos_gerados": [
-      "Resíduos asfálticos",
+      "Res\u00edduos asf\u00e1lticos",
       "Embalagens de insumos"
     ],
-    "descricao_empresa": "Empresa especializada na produção e distribuição de asfalto."
+    "descricao_empresa": "Empresa especializada na produ\u00e7\u00e3o e distribui\u00e7\u00e3o de asfalto."
   },
   {
     "company_name": "IMPSA (WIND POWER)",
     "area_ha": "11.0936",
     "perimeter_m": "2,502.57",
-    "polo": "Eólico",
+    "polo": "E\u00f3lico",
     "zoneamento": "Zona Industrial (ZI)Engenho",
-    "engenho": "Engenho AlgodoasEndereço",
-    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Município",
+    "engenho": "Engenho AlgodoasEndere\u00e7o",
+    "endereco": "Complexo Industrial de Suape - Estr. Tdr Norte - km 1,45 - suape, Cabo de Santo Agostinho - PE, 54590-000Munic\u00edpio",
     "municipio": "Cabo de Santo Agostinho",
-    "latitude": -8.345722,
-    "longitude": -34.932899,
+    "latitude": -8.376562087320936,
+    "longitude": -34.96883167300172,
     "id": 146,
     "email_contato": "contato@impsawindpower.com.br",
     "telefone_contato": "(81) 92902-2781",
     "residuos_gerados": [
-      "Resíduos de fibra de vidro",
-      "Sucata metálica"
+      "Res\u00edduos de fibra de vidro",
+      "Sucata met\u00e1lica"
     ],
-    "descricao_empresa": "Indústria especializada na fabricação de componentes para o setor de energia eólica."
+    "descricao_empresa": "Ind\u00fastria especializada na fabrica\u00e7\u00e3o de componentes para o setor de energia e\u00f3lica."
   }
 ]
