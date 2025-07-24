@@ -98,40 +98,6 @@ const NetworkSection = () => {
           </p>
         </div>
 
-        {/* Network Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-12">
-          <Card className="text-center border-eco-green/20">
-            <CardContent className="pt-6">
-              <Building2 className="w-8 h-8 mx-auto mb-3 text-eco-green" />
-              <div className="text-2xl font-bold text-foreground">147</div>
-              <div className="text-sm text-muted-foreground">Empresas Conectadas</div>
-            </CardContent>
-          </Card>
-          
-          <Card className="text-center border-eco-blue/20">
-            <CardContent className="pt-6">
-              <Link className="w-8 h-8 mx-auto mb-3 text-eco-blue" />
-              <div className="text-2xl font-bold text-foreground">284</div>
-              <div className="text-sm text-muted-foreground">Conexões Ativas</div>
-            </CardContent>
-          </Card>
-          
-          <Card className="text-center border-eco-green/20">
-            <CardContent className="pt-6">
-              <TrendingUp className="w-8 h-8 mx-auto mb-3 text-eco-green" />
-              <div className="text-2xl font-bold text-foreground">92%</div>
-              <div className="text-sm text-muted-foreground">Taxa de Aproveitamento</div>
-            </CardContent>
-          </Card>
-          
-          <Card className="text-center border-eco-blue/20">
-            <CardContent className="pt-6">
-              <MapPin className="w-8 h-8 mx-auto mb-3 text-eco-blue" />
-              <div className="text-2xl font-bold text-foreground">15km²</div>
-              <div className="text-sm text-muted-foreground">Área de Cobertura</div>
-            </CardContent>
-          </Card>
-        </div>
 
         <div className="grid lg:grid-cols-2 gap-8">
           {/* Companies List */}
