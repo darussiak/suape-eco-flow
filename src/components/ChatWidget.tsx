@@ -101,14 +101,6 @@ Responda de forma prática, objetiva e sempre focando em soluções sustentávei
               <Bot className="w-5 h-5" />
               <span className="font-medium">Assistente EcoCiclo</span>
             </div>
-            <Button
-              variant="ghost"
-              size="sm"
-              onClick={() => setIsOpen(false)}
-              className="text-primary-foreground hover:bg-primary-foreground/20"
-            >
-              <X className="w-4 h-4" />
-            </Button>
           </div>
 
           {/* Messages */}
