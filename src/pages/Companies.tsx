@@ -43,7 +43,32 @@ const Companies = () => {
     return matchesSearch && matchesType;
   });
 
+  // Icon mapping for different company types
+  const getPoloIcon = (polo: string) => {
+    const iconMap: { [key: string]: { icon: string; color: string } } = {
+      "Logística": { icon: "🚛", color: "#3B82F6" },
+      "Alimentos e Bebidas": { icon: "🍽️", color: "#EF4444" },
+      "Químico e Petroquímico": { icon: "⚗️", color: "#8B5CF6" },
+      "Automotivo": { icon: "🚗", color: "#F59E0B" },
+      "Naval": { icon: "⚓", color: "#0EA5E9" },
+      "Siderúrgico": { icon: "🏭", color: "#6B7280" },
+      "Têxtil": { icon: "🧵", color: "#EC4899" },
+      "Farmacêutico": { icon: "💊", color: "#10B981" },
+      "Energia": { icon: "⚡", color: "#F59E0B" },
+      "Papel e Celulose": { icon: "📄", color: "#84CC16" }
+    };
+    return iconMap[polo] || { icon: "🏢", color: "#6B7280" };
+  };
+
   const MapComponent = () => {
+    // Create markers for each company
+    const markers = filteredCompanies.map((company, index) => {
+      const { icon, color } = getPoloIcon(company.type);
+      return `&markers=color:${color.replace('#', '0x')}%7Clabel:${encodeURIComponent(icon)}%7C${company.location.lat},${company.location.lng}`;
+    }).join('');
+
+    const mapUrl = `https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite${markers}`;
+
     return (
       <div className="h-[600px] bg-muted/30 rounded-lg relative">
         <iframe
@@ -53,7 +78,7 @@ const Companies = () => {
           loading="lazy"
           allowFullScreen
           referrerPolicy="no-referrer-when-downgrade"
-          src={`https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite`}
+          src={mapUrl}
         />
         <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
           <div className="flex items-center gap-2 mb-2">
@@ -63,6 +88,22 @@ const Companies = () => {
           <p className="text-xs text-muted-foreground">
             {filteredCompanies.length} empresas visualizadas
           </p>
+        </div>
+        
+        {/* Legend */}
+        <div className="absolute bottom-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg max-w-xs">
+          <h4 className="text-sm font-medium mb-2">Legenda dos Polos</h4>
+          <div className="grid grid-cols-2 gap-1 text-xs">
+            {companyTypes.slice(1).map(type => {
+              const { icon, color } = getPoloIcon(type);
+              return (
+                <div key={type} className="flex items-center gap-1">
+                  <span style={{ color }}>{icon}</span>
+                  <span className="text-muted-foreground truncate">{type}</span>
+                </div>
+              );
+            })}
+          </div>
         </div>
       </div>
     );
