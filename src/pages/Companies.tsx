@@ -35,7 +35,7 @@ const Companies = () => {
   }));
 
   // Extract unique company types from the data
-  const companyTypes = ["all", ...Array.from(new Set(companies.map(company => company.type)))];
+  const companyTypes = ["all", ...Array.from(new Set(companies.map(company => company.type))).sort()];
 
   const filteredCompanies = companies.filter(company => {
     const matchesSearch = company.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
