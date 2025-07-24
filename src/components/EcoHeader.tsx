@@ -53,7 +53,7 @@ const EcoHeader = () => {
               Sistema Ativo
             </Badge>
             <Button variant="default" className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-lg transition-all">
-              Conectar Empresa
+              Cadastrar Resíduo
             </Button>
           </div>
 
@@ -91,7 +91,7 @@ const EcoHeader = () => {
                   Sistema Ativo
                 </Badge>
                 <Button variant="default" className="w-full bg-gradient-to-r from-eco-green to-eco-blue">
-                  Conectar Empresa
+                  Cadastrar Resíduo
                 </Button>
               </div>
             </nav>

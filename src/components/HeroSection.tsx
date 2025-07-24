@@ -55,7 +55,7 @@ const HeroSection = () => {
                 size="lg" 
                 className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-xl transition-all text-base px-8"
               >
-                conectar empresa
+                Cadastrar Resíduo
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </div>
