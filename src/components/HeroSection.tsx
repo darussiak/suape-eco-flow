@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ArrowRight, Recycle, Factory, Users, TrendingUp } from "lucide-react";
 import heroBanner from "@/assets/hero-banner.jpg";
+import CadastrarResiduoModal from "./CadastrarResiduoModal";
 
 const HeroSection = () => {
   return (
@@ -51,13 +52,15 @@ const HeroSection = () => {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button 
-                size="lg" 
-                className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-xl transition-all text-base px-8"
-              >
-                Cadastrar Resíduo
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
+              <CadastrarResiduoModal>
+                <Button 
+                  size="lg" 
+                  className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-xl transition-all text-base px-8"
+                >
+                  Cadastrar Resíduo
+                  <ArrowRight className="ml-2 h-5 w-5" />
+                </Button>
+              </CadastrarResiduoModal>
             </div>
           </div>
 

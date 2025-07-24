@@ -3,6 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { Menu, X, Recycle, Factory, TrendingUp } from "lucide-react";
 import { useState } from "react";
 import ecocicloLogo from "@/assets/ecociclo-logo.png";
+import CadastrarResiduoModal from "./CadastrarResiduoModal";
 
 const EcoHeader = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -52,9 +53,11 @@ const EcoHeader = () => {
               <div className="w-2 h-2 bg-eco-green rounded-full mr-2 animate-pulse-eco"></div>
               Sistema Ativo
             </Badge>
-            <Button variant="default" className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-lg transition-all">
-              Cadastrar Resíduo
-            </Button>
+            <CadastrarResiduoModal>
+              <Button variant="default" className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-lg transition-all">
+                Cadastrar Resíduo
+              </Button>
+            </CadastrarResiduoModal>
           </div>
 
           {/* Mobile Menu Toggle */}
@@ -90,9 +93,11 @@ const EcoHeader = () => {
                   <div className="w-2 h-2 bg-eco-green rounded-full mr-2 animate-pulse-eco"></div>
                   Sistema Ativo
                 </Badge>
-                <Button variant="default" className="w-full bg-gradient-to-r from-eco-green to-eco-blue">
-                  Cadastrar Resíduo
-                </Button>
+                <CadastrarResiduoModal>
+                  <Button variant="default" className="w-full bg-gradient-to-r from-eco-green to-eco-blue">
+                    Cadastrar Resíduo
+                  </Button>
+                </CadastrarResiduoModal>
               </div>
             </nav>
           </div>
