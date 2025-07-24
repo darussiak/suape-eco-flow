@@ -69,8 +69,8 @@ const HeroSection = () => {
             <div className="relative overflow-hidden rounded-2xl">
               <img 
                 src={heroBanner} 
-                alt="Economia Circular Suape" 
-                className="w-full h-96 object-cover"
+                alt="Porto de Suape - Economia Circular" 
+                className="w-full h-96 object-contain bg-gradient-to-br from-eco-green/10 to-eco-blue/10"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-eco-green/20 to-transparent"></div>
             </div>
