@@ -29,7 +29,7 @@ const EcoHeader = () => {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-6">
-            <a href="#dashboard" className="text-foreground hover:text-eco-green transition-colors font-medium">
+            <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Dashboard
             </a>
             <a href="#network" className="text-foreground hover:text-eco-green transition-colors font-medium">
@@ -38,8 +38,8 @@ const EcoHeader = () => {
             <a href="#processes" className="text-foreground hover:text-eco-green transition-colors font-medium">
               Processos
             </a>
-            <a href="#impact" className="text-foreground hover:text-eco-green transition-colors font-medium">
-              Impacto
+            <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              Relatórios
             </a>
           </nav>
 
@@ -67,7 +67,7 @@ const EcoHeader = () => {
         {isMenuOpen && (
           <div className="md:hidden mt-4 pb-4 border-t border-border">
             <nav className="flex flex-col space-y-4 mt-4">
-              <a href="#dashboard" className="text-foreground hover:text-eco-green transition-colors font-medium">
+              <a href="/" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Dashboard
               </a>
               <a href="#network" className="text-foreground hover:text-eco-green transition-colors font-medium">
@@ -76,8 +76,8 @@ const EcoHeader = () => {
               <a href="#processes" className="text-foreground hover:text-eco-green transition-colors font-medium">
                 Processos
               </a>
-              <a href="#impact" className="text-foreground hover:text-eco-green transition-colors font-medium">
-                Impacto
+              <a href="/reports" className="text-foreground hover:text-eco-green transition-colors font-medium">
+                Relatórios
               </a>
               <div className="pt-4 border-t border-border">
                 <Badge variant="secondary" className="bg-eco-green/10 text-eco-green border-eco-green/20 mb-4">
