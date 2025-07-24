@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ArrowRight, Recycle, Factory, Users, TrendingUp } from "lucide-react";
-import heroBanner from "@/assets/hero-banner.jpg";
+import heroBanner from "@/assets/porto-suape-hero.png";
 import CadastrarResiduoModal from "./CadastrarResiduoModal";
 
 const HeroSection = () => {
