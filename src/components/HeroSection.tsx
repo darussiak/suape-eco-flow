@@ -1,7 +1,7 @@
+
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ArrowRight, Recycle, Factory, Users, TrendingUp } from "lucide-react";
-import heroBanner from "@/assets/porto-suape-hero.png";
 import CadastrarResiduoModal from "./CadastrarResiduoModal";
 
 const HeroSection = () => {
@@ -68,7 +68,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-2xl">
               <img 
-                src={heroBanner} 
+                src="/lovable-uploads/487d668e-a3a3-482e-91a9-359b3241e6be.png" 
                 alt="Porto de Suape - Economia Circular" 
                 className="w-full h-96 object-cover"
               />
