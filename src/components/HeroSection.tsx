@@ -70,7 +70,7 @@ const HeroSection = () => {
               <img 
                 src={heroBanner} 
                 alt="Porto de Suape - Economia Circular" 
-                className="w-full h-96 object-contain bg-gradient-to-br from-eco-green/10 to-eco-blue/10"
+                className="w-full h-96 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-eco-green/20 to-transparent"></div>
             </div>
