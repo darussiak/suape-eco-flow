@@ -129,6 +129,13 @@ const ContactSection = () => {
                   </div>
                 </div>
               ))}
+              
+              <Button variant="outline" className="w-full border-primary text-primary hover:bg-primary hover:text-white" asChild>
+                <a href="/companies">
+                  Ver Mais Empresas
+                  <Building2 className="ml-2 h-4 w-4" />
+                </a>
+              </Button>
             </CardContent>
           </Card>
 
