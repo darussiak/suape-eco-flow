@@ -86,13 +86,6 @@ const DashboardSection = () => {
                     <div className={`p-2 rounded-lg bg-${metric.color}/10`}>
                       <IconComponent className={`w-5 h-5 text-${metric.color}`} />
                     </div>
-                    <Badge 
-                      variant="secondary" 
-                      className={`${metric.trend === 'up' ? 'text-green-600' : 'text-red-600'} border-0 bg-transparent`}
-                    >
-                      {metric.trend === 'up' ? <ArrowUp className="w-3 h-3 mr-1" /> : <ArrowDown className="w-3 h-3 mr-1" />}
-                      {metric.change}
-                    </Badge>
                   </div>
                 </CardHeader>
                 <CardContent>
@@ -130,16 +123,6 @@ const DashboardSection = () => {
                   <div className="flex-1">
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium text-sm">{process.name}</span>
-                      <Badge 
-                        variant={process.status === 'Ativo' ? 'secondary' : 'outline'}
-                        className={process.status === 'Ativo' ? 'bg-eco-green/10 text-eco-green border-eco-green/20' : ''}
-                      >
-                        {process.status}
-                      </Badge>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <Progress value={process.efficiency} className="flex-1 h-2" />
-                      <span className="text-sm font-medium text-muted-foreground">{process.efficiency}%</span>
                     </div>
                   </div>
                 </div>

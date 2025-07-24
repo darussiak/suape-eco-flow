@@ -116,22 +116,12 @@ const NetworkSection = () => {
                       <h4 className="font-semibold text-foreground">{company.name}</h4>
                       <p className="text-sm text-muted-foreground">{company.type}</p>
                     </div>
-                    <Badge 
-                      variant={company.status === 'Ativo' ? 'secondary' : 'outline'}
-                      className={company.status === 'Ativo' ? 'bg-eco-green/10 text-eco-green border-eco-green/20' : ''}
-                    >
-                      {company.status}
-                    </Badge>
                   </div>
                   
                   <div className="flex items-center gap-4 text-sm text-muted-foreground mb-3">
                     <span className="flex items-center gap-1">
                       <Link className="w-4 h-4" />
                       {company.connections} conexões
-                    </span>
-                    <span className="flex items-center gap-1">
-                      <TrendingUp className="w-4 h-4" />
-                      {company.efficiency}% eficiência
                     </span>
                   </div>
                   
