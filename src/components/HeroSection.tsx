@@ -55,16 +55,8 @@ const HeroSection = () => {
                 size="lg" 
                 className="bg-gradient-to-r from-eco-green to-eco-blue hover:shadow-xl transition-all text-base px-8"
               >
-                Explorar Dashboard
+                conectar empresa
                 <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
-              <Button 
-                variant="outline" 
-                size="lg" 
-                className="border-eco-green text-eco-green hover:bg-eco-green hover:text-white text-base px-8"
-              >
-                <Users className="mr-2 h-5 w-5" />
-                Conectar Empresa
               </Button>
             </div>
           </div>

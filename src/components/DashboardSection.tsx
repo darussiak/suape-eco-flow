@@ -108,9 +108,9 @@ const DashboardSection = () => {
         </div>
 
         {/* Processes Status */}
-        <div className="grid lg:grid-cols-2 gap-8">
+        {/* <div className="grid lg:grid-cols-2 gap-8"> */}
           {/* Active Processes */}
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Activity className="w-5 h-5 text-eco-green" />
@@ -128,10 +128,10 @@ const DashboardSection = () => {
                 </div>
               ))}
             </CardContent>
-          </Card>
+          </Card> */}
 
           {/* Real-time Activity */}
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Gauge className="w-5 h-5 text-eco-blue" />
@@ -173,8 +173,8 @@ const DashboardSection = () => {
                 </div>
               </div>
             </CardContent>
-          </Card>
-        </div>
+          </Card> */}
+        {/* </div> */}
       </div>
     </section>
   );

@@ -149,7 +149,7 @@ const Companies = () => {
           )}
         </GoogleMap>
 
-        <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
+        <div className="absolute bottom-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
           <div className="flex items-center gap-2 mb-2">
             <Map className="w-4 h-4 text-primary" />
             <span className="text-sm font-medium">Complexo de Suape</span>
@@ -157,22 +157,6 @@ const Companies = () => {
           <p className="text-xs text-muted-foreground">
             {filteredCompanies.length} empresas visualizadas
           </p>
-        </div>
-        
-        {/* Legend */}
-        <div className="absolute bottom-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg max-w-xs">
-          <h4 className="text-sm font-medium mb-2">Legenda dos Polos</h4>
-          <div className="grid grid-cols-2 gap-1 text-xs">
-            {companyTypes.slice(1).map(type => {
-              const { icon, color } = getPoloIcon(type);
-              return (
-                <div key={type} className="flex items-center gap-1">
-                  <span style={{ color }}>{icon}</span>
-                  <span className="text-muted-foreground truncate">{type}</span>
-                </div>
-              );
-            })}
-          </div>
         </div>
       </div>
     );
