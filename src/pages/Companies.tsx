@@ -9,138 +9,59 @@ import EcoHeader from "@/components/EcoHeader";
 import EcoFooter from "@/components/EcoFooter";
 import { ArrowLeft, Building2, Map, List, MapPin, Users, Mail, Phone, Search, Filter } from "lucide-react";
 import { Link } from "react-router-dom";
+import mockCompaniesData from "@/mockData/mock_companies.json";
 
 const Companies = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedType, setSelectedType] = useState("all");
-  const [mapboxToken, setMapboxToken] = useState("");
 
-  const companies = [
-    {
-      id: "1",
-      name: "SUAPE Petroquímica",
-      type: "Petroquímica",
-      materials: ["Plásticos", "Químicos", "Resinas"],
-      status: "online",
-      contacts: 45,
-      location: { lat: -8.3927, lng: -35.0061 },
-      address: "Complexo Industrial de Suape, Ipojuca - PE",
-      email: "contato@suapepetroquimica.com.br",
-      phone: "(81) 3522-1000",
-      description: "Líder em produção petroquímica com foco em sustentabilidade e economia circular."
-    },
-    {
-      id: "2", 
-      name: "Porto Digital Metal",
-      type: "Metalúrgica",
-      materials: ["Metais", "Sucata", "Ligas"],
-      status: "online",
-      contacts: 32,
-      location: { lat: -8.3945, lng: -35.0080 },
-      address: "Zona Industrial de Suape, Cabo de Santo Agostinho - PE",
-      email: "contato@portodigitalmetal.com.br",
-      phone: "(81) 3591-2000",
-      description: "Especializada em reciclagem e processamento de materiais metálicos."
-    },
-    {
-      id: "3",
-      name: "EcoSuape Reciclagem",
-      type: "Reciclagem",
-      materials: ["Papel", "Vidro", "Metal", "Eletrônicos"],
-      status: "offline",
-      contacts: 28,
-      location: { lat: -8.3910, lng: -35.0095 },
-      address: "Distrito Industrial de Suape, Ipojuca - PE", 
-      email: "contato@ecosuapereciclagem.com.br",
-      phone: "(81) 3526-3000",
-      description: "Centro de reciclagem multi-material com tecnologia avançada de separação."
-    },
-    {
-      id: "4",
-      name: "Industrial Têxtil PE",
-      type: "Têxtil",
-      materials: ["Fibras", "Tecidos", "Algodão"],
-      status: "online",
-      contacts: 19,
-      location: { lat: -8.3888, lng: -35.0120 },
-      address: "Complexo de Suape, Ipojuca - PE",
-      email: "contato@industrialtextilpe.com.br", 
-      phone: "(81) 3528-4000",
-      description: "Produção sustentável de têxteis com aproveitamento de resíduos."
-    },
-    {
-      id: "5",
-      name: "Química Verde SUAPE",
-      type: "Química",
-      materials: ["Solventes", "Ácidos", "Bases"],
-      status: "online",
-      contacts: 37,
-      location: { lat: -8.3962, lng: -35.0043 },
-      address: "Polo Petroquímico de Suape, Ipojuca - PE",
-      email: "contato@quimicaverde.com.br",
-      phone: "(81) 3525-5000",
-      description: "Desenvolvimento de produtos químicos eco-friendly para a indústria."
-    },
-    {
-      id: "6",
-      name: "Energia Renovável Nordeste",
-      type: "Energia",
-      materials: ["Biomassa", "Resíduos Orgânicos"],
-      status: "online",
-      contacts: 41,
-      location: { lat: -8.3901, lng: -35.0150 },
-      address: "Parque Eólico de Suape, Cabo de Santo Agostinho - PE",
-      email: "contato@energiarenovavel.com.br",
-      phone: "(81) 3530-6000", 
-      description: "Geração de energia limpa a partir de resíduos industriais e biomassa."
-    }
-  ];
+  // Transform mock data to match component structure
+  const companies = mockCompaniesData.map((company: any) => ({
+    id: company.id.toString(),
+    name: company.company_name,
+    type: company.polo,
+    materials: company.residuos_gerados || [],
+    status: "online",
+    contacts: Math.floor(Math.random() * 50) + 10, // Random number between 10-60
+    location: { lat: company.latitude, lng: company.longitude },
+    address: company.endereco,
+    email: company.email_contato,
+    phone: company.telefone_contato,
+    description: company.descricao_empresa,
+    municipality: company.municipio,
+    area: company.area_ha,
+    perimeter: company.perimeter_m
+  }));
 
-  const companyTypes = ["all", "Petroquímica", "Metalúrgica", "Reciclagem", "Têxtil", "Química", "Energia"];
+  // Extract unique company types from the data
+  const companyTypes = ["all", ...Array.from(new Set(companies.map(company => company.type)))];
 
   const filteredCompanies = companies.filter(company => {
     const matchesSearch = company.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                         company.materials.some(material => material.toLowerCase().includes(searchTerm.toLowerCase()));
+                         company.materials.some((material: string) => material.toLowerCase().includes(searchTerm.toLowerCase()));
     const matchesType = selectedType === "all" || company.type === selectedType;
     return matchesSearch && matchesType;
   });
 
   const MapComponent = () => {
-    if (!mapboxToken) {
-      return (
-        <div className="h-[600px] bg-muted/30 rounded-lg flex flex-col items-center justify-center">
-          <MapPin className="w-16 h-16 text-muted-foreground mb-4" />
-          <p className="text-lg font-medium text-foreground mb-2">Visualização do Mapa</p>
-          <p className="text-sm text-muted-foreground mb-4 text-center max-w-md">
-            Para visualizar o mapa interativo das empresas, insira seu token público do Mapbox
-          </p>
-          <div className="flex gap-2 w-full max-w-md">
-            <Input
-              placeholder="Token público do Mapbox"
-              value={mapboxToken}
-              onChange={(e) => setMapboxToken(e.target.value)}
-            />
-            <Button onClick={() => setMapboxToken(mapboxToken)}>
-              Carregar
-            </Button>
-          </div>
-          <p className="text-xs text-muted-foreground mt-2">
-            Obtenha seu token em{" "}
-            <a href="https://mapbox.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
-              mapbox.com
-            </a>
-          </p>
-        </div>
-      );
-    }
-
     return (
-      <div className="h-[600px] bg-muted/30 rounded-lg flex items-center justify-center">
-        <div className="text-center">
-          <Map className="w-16 h-16 text-primary mx-auto mb-4" />
-          <p className="text-lg font-medium text-foreground">Mapa Interativo</p>
-          <p className="text-sm text-muted-foreground">
-            Visualização das {filteredCompanies.length} empresas no Complexo de Suape
+      <div className="h-[600px] bg-muted/30 rounded-lg relative">
+        <iframe
+          width="100%"
+          height="100%"
+          style={{ border: 0, borderRadius: '8px' }}
+          loading="lazy"
+          allowFullScreen
+          referrerPolicy="no-referrer-when-downgrade"
+          src={`https://www.google.com/maps/embed/v1/view?key=AIzaSyDi5jNQFrt5JARwEV9PnLdCJ7t8Ag4Ndic&center=-8.3564,-34.9392&zoom=13&maptype=satellite`}
+        />
+        <div className="absolute top-4 left-4 bg-background/90 backdrop-blur-sm rounded-lg p-3 shadow-lg">
+          <div className="flex items-center gap-2 mb-2">
+            <Map className="w-4 h-4 text-primary" />
+            <span className="text-sm font-medium">Complexo de Suape</span>
+          </div>
+          <p className="text-xs text-muted-foreground">
+            {filteredCompanies.length} empresas visualizadas
           </p>
         </div>
       </div>
@@ -237,10 +158,10 @@ const Companies = () => {
                     <p className="text-sm text-muted-foreground">{company.description}</p>
                     
                     <div>
-                      <h4 className="text-sm font-medium mb-2">Materiais:</h4>
+                      <h4 className="text-sm font-medium mb-2">Resíduos Gerados:</h4>
                       <div className="flex flex-wrap gap-1">
-                        {company.materials.map((material) => (
-                          <Badge key={material} variant="outline" className="text-xs">
+                        {company.materials.map((material: string, index: number) => (
+                          <Badge key={`${material}-${index}`} variant="outline" className="text-xs">
                             {material}
                           </Badge>
                         ))}
@@ -290,13 +211,22 @@ const Companies = () => {
                             </div>
 
                             <div>
-                              <h4 className="text-sm font-medium mb-2">Materiais disponíveis:</h4>
+                              <h4 className="text-sm font-medium mb-2">Resíduos gerados:</h4>
                               <div className="flex flex-wrap gap-1">
-                                {company.materials.map((material) => (
-                                  <Badge key={material} variant="outline" className="text-xs">
+                                {company.materials.map((material: string, index: number) => (
+                                  <Badge key={`${material}-${index}`} variant="outline" className="text-xs">
                                     {material}
                                   </Badge>
                                 ))}
+                              </div>
+                            </div>
+                            
+                            <div className="grid grid-cols-2 gap-4 text-xs text-muted-foreground">
+                              <div>
+                                <span className="font-medium">Área:</span> {company.area} ha
+                              </div>
+                              <div>
+                                <span className="font-medium">Município:</span> {company.municipality}
                               </div>
                             </div>
                           </div>
